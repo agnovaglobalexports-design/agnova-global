@@ -1,0 +1,5 @@
+Product Name: 250mg Abirapro Abiraterone Acetate Tablets
+Category: Anti Cancer Medicines
+ID: p-8
+
+Instructions: Paste this product's image into this folder. Supported names: image.jpg, image.png, or any image file.

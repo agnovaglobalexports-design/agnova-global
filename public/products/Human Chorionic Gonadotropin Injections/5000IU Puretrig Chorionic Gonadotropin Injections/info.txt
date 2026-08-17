@@ -1,0 +1,5 @@
+Product Name: 5000IU Puretrig Chorionic Gonadotropin Injections
+Category: Human Chorionic Gonadotropin Injections
+ID: p-272
+
+Instructions: Paste this product's image into this folder. Supported names: image.jpg, image.png, or any image file.

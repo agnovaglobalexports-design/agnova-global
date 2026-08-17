@@ -1,0 +1,5 @@
+Product Name: Sorafenat Sorafenib Tablets
+Category: Anti Cancer Medicines
+ID: p-18
+
+Instructions: Paste this product's image into this folder. Supported names: image.jpg, image.png, or any image file.

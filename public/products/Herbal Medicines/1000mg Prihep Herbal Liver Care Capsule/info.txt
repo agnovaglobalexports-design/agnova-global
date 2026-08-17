@@ -1,0 +1,5 @@
+Product Name: 1000mg Prihep Herbal Liver Care Capsule
+Category: Herbal Medicines
+ID: p-148
+
+Instructions: Paste this product's image into this folder. Supported names: image.jpg, image.png, or any image file.

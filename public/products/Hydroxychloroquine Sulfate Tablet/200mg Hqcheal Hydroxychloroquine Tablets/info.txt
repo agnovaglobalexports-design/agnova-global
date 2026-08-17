@@ -1,0 +1,5 @@
+Product Name: 200mg Hqcheal Hydroxychloroquine Tablets
+Category: Hydroxychloroquine Sulfate Tablet
+ID: p-276
+
+Instructions: Paste this product's image into this folder. Supported names: image.jpg, image.png, or any image file.

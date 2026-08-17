@@ -1,0 +1,5 @@
+Product Name: 250mg Azicip Azithromycin Tablets
+Category: Pharmaceutical Tablets
+ID: p-33
+
+Instructions: Paste this product's image into this folder. Supported names: image.jpg, image.png, or any image file.

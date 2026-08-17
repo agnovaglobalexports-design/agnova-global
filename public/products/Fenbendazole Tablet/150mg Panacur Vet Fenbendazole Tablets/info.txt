@@ -1,0 +1,5 @@
+Product Name: 150mg Panacur Vet Fenbendazole Tablets
+Category: Fenbendazole Tablet
+ID: p-118
+
+Instructions: Paste this product's image into this folder. Supported names: image.jpg, image.png, or any image file.

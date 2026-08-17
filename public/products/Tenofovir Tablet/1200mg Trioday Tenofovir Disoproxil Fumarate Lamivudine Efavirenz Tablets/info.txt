@@ -1,0 +1,5 @@
+Product Name: 1200mg Trioday Tenofovir Disoproxil Fumarate Lamivudine Efavirenz Tablets
+Category: Tenofovir Tablet
+ID: p-108
+
+Instructions: Paste this product's image into this folder. Supported names: image.jpg, image.png, or any image file.

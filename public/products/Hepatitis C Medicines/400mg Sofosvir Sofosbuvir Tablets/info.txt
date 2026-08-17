@@ -1,0 +1,5 @@
+Product Name: 400mg Sofosvir Sofosbuvir Tablets
+Category: Hepatitis C Medicines
+ID: p-245
+
+Instructions: Paste this product's image into this folder. Supported names: image.jpg, image.png, or any image file.

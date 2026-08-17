@@ -1,0 +1,5 @@
+Product Name: 650mg Xapavir LT Dolutegravir Lamivudine Tenofovir Disoproxil Fumarate Tablets
+Category: Pharmaceutical Tablets
+ID: p-47
+
+Instructions: Paste this product's image into this folder. Supported names: image.jpg, image.png, or any image file.

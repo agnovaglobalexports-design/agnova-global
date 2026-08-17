@@ -1,0 +1,5 @@
+Product Name: Isotine Plus Eye Drop
+Category: Pharmaceutical Eye Drops
+ID: p-298
+
+Instructions: Paste this product's image into this folder. Supported names: image.jpg, image.png, or any image file.

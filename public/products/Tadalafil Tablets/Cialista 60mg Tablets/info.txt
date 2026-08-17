@@ -1,0 +1,5 @@
+Product Name: Cialista 60mg Tablets
+Category: Tadalafil Tablets
+ID: p-80
+
+Instructions: Paste this product's image into this folder. Supported names: image.jpg, image.png, or any image file.

@@ -1,0 +1,5 @@
+Product Name: 25mg Prihep Tenofovir Alafenamide Tablets
+Category: Tenofovir Alafenamide Tablets
+ID: p-123
+
+Instructions: Paste this product's image into this folder. Supported names: image.jpg, image.png, or any image file.

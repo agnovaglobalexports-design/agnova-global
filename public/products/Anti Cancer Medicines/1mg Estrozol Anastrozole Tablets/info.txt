@@ -1,0 +1,5 @@
+Product Name: 1mg Estrozol Anastrozole Tablets
+Category: Anti Cancer Medicines
+ID: p-1
+
+Instructions: Paste this product's image into this folder. Supported names: image.jpg, image.png, or any image file.

@@ -1,0 +1,5 @@
+Product Name: 60mg Dacihep Daclatasvir Dihydrochloride Tablet
+Category: Hepatitis C Medicines
+ID: p-258
+
+Instructions: Paste this product's image into this folder. Supported names: image.jpg, image.png, or any image file.

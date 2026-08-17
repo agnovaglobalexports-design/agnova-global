@@ -1,0 +1,5 @@
+Product Name: 50ml Acnacalm SPF 30 Face Cream
+Category: Personal Care Products
+ID: p-253
+
+Instructions: Paste this product's image into this folder. Supported names: image.jpg, image.png, or any image file.

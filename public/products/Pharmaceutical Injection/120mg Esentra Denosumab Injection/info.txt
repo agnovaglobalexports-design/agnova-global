@@ -1,0 +1,5 @@
+Product Name: 120mg Esentra Denosumab Injection
+Category: Pharmaceutical Injection
+ID: p-103
+
+Instructions: Paste this product's image into this folder. Supported names: image.jpg, image.png, or any image file.

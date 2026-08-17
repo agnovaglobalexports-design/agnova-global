@@ -1,0 +1,5 @@
+Product Name: 3.02mg YAZ Ethinyl Estradiol Drospirenone Tablets
+Category: Birth Control Pills
+ID: p-293
+
+Instructions: Paste this product's image into this folder. Supported names: image.jpg, image.png, or any image file.

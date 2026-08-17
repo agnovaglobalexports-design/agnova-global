@@ -1,0 +1,5 @@
+Product Name: Cialista 5mg Tablets
+Category: Tadalafil Tablets
+ID: p-78
+
+Instructions: Paste this product's image into this folder. Supported names: image.jpg, image.png, or any image file.

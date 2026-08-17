@@ -1,0 +1,5 @@
+Product Name: Himalaya Speman Tablet
+Category: Himalaya Herbal Capsules & Tablets
+ID: p-59
+
+Instructions: Paste this product's image into this folder. Supported names: image.jpg, image.png, or any image file.

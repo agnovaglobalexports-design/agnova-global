@@ -1,0 +1,5 @@
+Product Name: 0.5mg Gepatit Entecavir Tablets
+Category: Entecavir Tablet
+ID: p-295
+
+Instructions: Paste this product's image into this folder. Supported names: image.jpg, image.png, or any image file.

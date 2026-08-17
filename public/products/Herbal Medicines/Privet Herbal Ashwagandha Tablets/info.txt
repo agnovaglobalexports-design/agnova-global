@@ -1,0 +1,5 @@
+Product Name: Privet Herbal Ashwagandha Tablets
+Category: Herbal Medicines
+ID: p-144
+
+Instructions: Paste this product's image into this folder. Supported names: image.jpg, image.png, or any image file.

@@ -1,0 +1,5 @@
+Product Name: PRITESTO VIAL 250mg/ml
+Category: Pharmaceutical Injection
+ID: p-101
+
+Instructions: Paste this product's image into this folder. Supported names: image.jpg, image.png, or any image file.

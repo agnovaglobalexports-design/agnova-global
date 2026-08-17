@@ -1,0 +1,5 @@
+Product Name: 12mg Covimectin Ivermectin Tablet
+Category: Ivermectin Tablets
+ID: p-263
+
+Instructions: Paste this product's image into this folder. Supported names: image.jpg, image.png, or any image file.

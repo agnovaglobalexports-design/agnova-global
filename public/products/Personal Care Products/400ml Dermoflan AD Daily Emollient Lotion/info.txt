@@ -1,0 +1,5 @@
+Product Name: 400ml Dermoflan AD Daily Emollient Lotion
+Category: Personal Care Products
+ID: p-254
+
+Instructions: Paste this product's image into this folder. Supported names: image.jpg, image.png, or any image file.

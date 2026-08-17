@@ -1,0 +1,5 @@
+Product Name: 100ml Cidead Ceramide Hyaluronic Acid Lotion
+Category: Personal Care Products
+ID: p-255
+
+Instructions: Paste this product's image into this folder. Supported names: image.jpg, image.png, or any image file.

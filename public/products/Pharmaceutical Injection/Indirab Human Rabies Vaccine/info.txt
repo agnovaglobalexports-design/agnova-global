@@ -1,0 +1,5 @@
+Product Name: Indirab Human Rabies Vaccine
+Category: Pharmaceutical Injection
+ID: p-94
+
+Instructions: Paste this product's image into this folder. Supported names: image.jpg, image.png, or any image file.

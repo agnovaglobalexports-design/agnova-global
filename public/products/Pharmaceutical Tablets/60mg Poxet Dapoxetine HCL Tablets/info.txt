@@ -1,0 +1,5 @@
+Product Name: 60mg Poxet Dapoxetine HCL Tablets
+Category: Pharmaceutical Tablets
+ID: p-28
+
+Instructions: Paste this product's image into this folder. Supported names: image.jpg, image.png, or any image file.

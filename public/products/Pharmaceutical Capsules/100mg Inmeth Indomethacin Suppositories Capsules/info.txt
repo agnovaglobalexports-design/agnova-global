@@ -1,0 +1,5 @@
+Product Name: 100mg Inmeth Indomethacin Suppositories Capsules
+Category: Pharmaceutical Capsules
+ID: p-134
+
+Instructions: Paste this product's image into this folder. Supported names: image.jpg, image.png, or any image file.

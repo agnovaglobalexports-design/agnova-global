@@ -1,0 +1,5 @@
+Product Name: Proluton Depot Hydroxyprogesterone Caproate Injection
+Category: Pharmaceutical Injection
+ID: p-105
+
+Instructions: Paste this product's image into this folder. Supported names: image.jpg, image.png, or any image file.

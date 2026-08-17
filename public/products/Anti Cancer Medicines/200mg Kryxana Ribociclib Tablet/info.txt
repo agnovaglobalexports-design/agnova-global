@@ -1,0 +1,5 @@
+Product Name: 200mg Kryxana Ribociclib Tablet
+Category: Anti Cancer Medicines
+ID: p-3
+
+Instructions: Paste this product's image into this folder. Supported names: image.jpg, image.png, or any image file.

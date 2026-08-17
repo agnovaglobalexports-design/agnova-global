@@ -1,0 +1,5 @@
+Product Name: 300mg Tenvir Tenofovir Disoproxil Fumarate Tablets
+Category: Tenofovir Tablet
+ID: p-109
+
+Instructions: Paste this product's image into this folder. Supported names: image.jpg, image.png, or any image file.

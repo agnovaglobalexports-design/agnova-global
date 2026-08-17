@@ -1,0 +1,5 @@
+Product Name: 25mg Tafnat Tenofovir Alofenomide Tablets
+Category: Tenofovir Alafenamide Tablets
+ID: p-126
+
+Instructions: Paste this product's image into this folder. Supported names: image.jpg, image.png, or any image file.

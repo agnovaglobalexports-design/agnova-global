@@ -1,0 +1,5 @@
+Product Name: 0.1%w/w Mylimus Tacrolimus Ointment
+Category: Pharmaceutical Ointment
+ID: p-266
+
+Instructions: Paste this product's image into this folder. Supported names: image.jpg, image.png, or any image file.

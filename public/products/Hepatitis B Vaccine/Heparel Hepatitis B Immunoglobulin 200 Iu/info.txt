@@ -1,0 +1,5 @@
+Product Name: Heparel Hepatitis B Immunoglobulin 200 Iu
+Category: Hepatitis B Vaccine
+ID: p-287
+
+Instructions: Paste this product's image into this folder. Supported names: image.jpg, image.png, or any image file.
