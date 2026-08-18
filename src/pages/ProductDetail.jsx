@@ -8,6 +8,7 @@ const ProductDetail = () => {
   const { id } = useParams();
   const navigate = useNavigate();
   const [product, setProduct] = useState(null);
+  const [selectedImage, setSelectedImage] = useState('');
 
   const WHATSAPP_NUMBER = '917970153653';
 
@@ -15,6 +16,7 @@ const ProductDetail = () => {
     const foundProduct = products.find(p => p.id === id);
     if (foundProduct) {
       setProduct(foundProduct);
+      setSelectedImage(foundProduct.image);
       window.scrollTo(0, 0);
     } else {
       // If product not found, redirect to products page
@@ -25,6 +27,8 @@ const ProductDetail = () => {
   if (!product) return <div className="loading-state">Loading...</div>;
 
   const whatsappMessage = `Hello Agnova Global Exports, I am interested in getting a quote for ${product.name}.`;
+
+  const allImages = product.images && product.images.length > 0 ? product.images : [product.image];
 
   return (
     <div className="product-detail-page">
@@ -40,13 +44,34 @@ const ProductDetail = () => {
 
         <div className="detail-grid">
           
-          {/* Left Column - Image */}
+          {/* Left Column - Image Gallery */}
           <div className="detail-image-col">
             <div className="image-wrapper glass-panel">
-              <img src={product.image} alt={product.name} className="main-image" />
-              <button className="get-photos-btn">
-                <span className="photo-icon">📷</span> Get More Photos
-              </button>
+              <img src={selectedImage || product.image} alt={product.name} className="main-image" />
+              
+              {/* Multi-image thumbnail selector */}
+              {allImages.length > 1 && (
+                <div className="thumbnail-row">
+                  {allImages.map((img, idx) => (
+                    <img 
+                      key={idx}
+                      src={img} 
+                      alt={`${product.name} view ${idx + 1}`}
+                      className={`thumbnail-item ${selectedImage === img ? 'active' : ''}`}
+                      onClick={() => setSelectedImage(img)}
+                    />
+                  ))}
+                </div>
+              )}
+
+              <a 
+                href={`https://wa.me/${WHATSAPP_NUMBER}?text=${encodeURIComponent(`Hello, please send more high-resolution photos of ${product.name}.`)}`}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="get-photos-btn"
+              >
+                <span className="photo-icon">📷</span> Request More Photos
+              </a>
             </div>
             
             <div className="interest-box">

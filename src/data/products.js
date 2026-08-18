@@ -422,21 +422,26 @@ export const products = [
     name: "7mg Rybelsus Semaglutide Tablets",
     category: "pharmaceutical-tablets",
     strength: "7",
-    image: "/products/Pharmaceutical%20Tablets/7mg%20Rybelsus%20Semaglutide%20Tablets/image.png",
+    image: "/products/Pharmaceutical%20Tablets/7mg%20Rybelsus%20Semaglutide%20Tablets/7mg-rybelsus-semaglutide-tablets-500x500-1.jpeg",
     brand: "Rybelsus",
     packagingType: "Box",
     treatment: "Treat Type 2 Diabetes",
     form: "Tablet",
     composition: "Semaglutide",
     packagingSize: "1x10 Tablets",
-    description: "Rybelsus 7 mg tablets contain semaglutide, a glucagon-like peptide-1 (GLP-1) receptor agonist. It is the first oral GLP-1 RA approved for the treatment of type 2 diabetes mellitus. Semaglutide works by enhancing glucose-dependent insulin secretion, reducing glucagon secretion, slowing gastric emptying, and promoting satiety—leading to improved glycemic control and weight loss."
+    description: "Rybelsus 7 mg tablets contain semaglutide, a glucagon-like peptide-1 (GLP-1) receptor agonist. It is the first oral GLP-1 RA approved for the treatment of type 2 diabetes mellitus. Semaglutide works by enhancing glucose-dependent insulin secretion, reducing glucagon secretion, slowing gastric emptying, and promoting satiety—leading to improved glycemic control and weight loss.",
+    images: [
+      "/products/Pharmaceutical%20Tablets/7mg%20Rybelsus%20Semaglutide%20Tablets/7mg-rybelsus-semaglutide-tablets-500x500-1.jpeg",
+      "/products/Pharmaceutical%20Tablets/7mg%20Rybelsus%20Semaglutide%20Tablets/7mg-rybelsus-semaglutide-tablets-500x500.jpeg",
+      "/products/Pharmaceutical%20Tablets/7mg%20Rybelsus%20Semaglutide%20Tablets/7mg-rybelsus-semaglutide-tablets-500x500.jpg"
+    ]
   },
   {
     id: "p-20",
     name: "100mg Extra Super Tadaro Tadalafil Dapoxetine Tablets",
     category: "pharmaceutical-tablets",
     strength: "100mg",
-    image: "/assets/cat_general.jpg",
+    image: "/products/Pharmaceutical%20Tablets/100mg%20Extra%20Super%20Tadaro%20Tadalafil%20Dapoxetine%20Tablets/100mg-extra-super-tadaro-tadalafil-dapoxetine-tablets-500x500.jpeg",
     brand: "Extra",
     packagingType: "Box/Strip",
     treatment: "Clinical Indication",
@@ -444,14 +449,19 @@ export const products = [
     form: "Tablet",
     composition: "Super Tadaro Tadalafil Dapoxetine",
     packagingSize: "10 x 10",
-    description: "100mg Extra Super Tadaro Tadalafil Dapoxetine Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols."
+    description: "100mg Extra Super Tadaro Tadalafil Dapoxetine Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols.",
+    images: [
+      "/products/Pharmaceutical%20Tablets/100mg%20Extra%20Super%20Tadaro%20Tadalafil%20Dapoxetine%20Tablets/100mg-extra-super-tadaro-tadalafil-dapoxetine-tablets-500x500.jpeg",
+      "/products/Pharmaceutical%20Tablets/100mg%20Extra%20Super%20Tadaro%20Tadalafil%20Dapoxetine%20Tablets/100mg-extra-super-tadaro-tadalafil-dapoxetine-tablets-500x500.jpg",
+      "/products/Pharmaceutical%20Tablets/100mg%20Extra%20Super%20Tadaro%20Tadalafil%20Dapoxetine%20Tablets/tadalafil-dapoxetine-tablets-500x500.jpg"
+    ]
   },
   {
     id: "p-21",
     name: "3mg Rybelsus Semaglutide Tablets",
     category: "pharmaceutical-tablets",
     strength: "3mg",
-    image: "/assets/cat_general.jpg",
+    image: "/products/Pharmaceutical%20Tablets/3mg%20Rybelsus%20Semaglutide%20Tablets/3mg-rybelsus-semaglutide-tablets-500x500-1.png",
     brand: "Rybelsus",
     packagingType: "Box/Strip",
     treatment: "Clinical Indication",
@@ -459,14 +469,19 @@ export const products = [
     form: "Tablet",
     composition: "Semaglutide",
     packagingSize: "10 x 10",
-    description: "3mg Rybelsus Semaglutide Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols."
+    description: "3mg Rybelsus Semaglutide Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols.",
+    images: [
+      "/products/Pharmaceutical%20Tablets/3mg%20Rybelsus%20Semaglutide%20Tablets/3mg-rybelsus-semaglutide-tablets-500x500-1.png",
+      "/products/Pharmaceutical%20Tablets/3mg%20Rybelsus%20Semaglutide%20Tablets/3mg-rybelsus-semaglutide-tablets-500x500.png",
+      "/products/Pharmaceutical%20Tablets/3mg%20Rybelsus%20Semaglutide%20Tablets/semaglutide-tablets-500x500.jpeg"
+    ]
   },
   {
     id: "p-22",
     name: "0.5mg Dutasure Dutasteride Tablets",
     category: "pharmaceutical-tablets",
     strength: "0.5mg",
-    image: "/assets/cat_general.jpg",
+    image: "/products/Pharmaceutical%20Tablets/0.5mg%20Dutasure%20Dutasteride%20Tablets/0-5mg-dutasure-dutasteride-tablets-500x500.jpeg",
     brand: "Dutasure",
     packagingType: "Box/Strip",
     treatment: "Clinical Indication",
@@ -474,14 +489,18 @@ export const products = [
     form: "Tablet",
     composition: "Dutasteride",
     packagingSize: "10 x 10",
-    description: "0.5mg Dutasure Dutasteride Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols."
+    description: "0.5mg Dutasure Dutasteride Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols.",
+    images: [
+      "/products/Pharmaceutical%20Tablets/0.5mg%20Dutasure%20Dutasteride%20Tablets/0-5mg-dutasure-dutasteride-tablets-500x500.jpeg",
+      "/products/Pharmaceutical%20Tablets/0.5mg%20Dutasure%20Dutasteride%20Tablets/dutasure-0-5mg-dutasteride-0-5mg-tablets-500x500.jpeg"
+    ]
   },
   {
     id: "p-23",
     name: "10mg Oxanadrol Oxandrolone Tablets",
     category: "pharmaceutical-tablets",
     strength: "10mg",
-    image: "/assets/cat_general.jpg",
+    image: "/products/Pharmaceutical%20Tablets/10mg%20Oxanadrol%20Oxandrolone%20Tablets/10mg-oxanadrol-oxandrolone-tablets-500x500.png",
     brand: "Oxanadrol",
     packagingType: "Box/Strip",
     treatment: "Muscle Wasting",
@@ -489,14 +508,18 @@ export const products = [
     form: "Tablet",
     composition: "Oxandrolone",
     packagingSize: "5x10 Tablets",
-    description: "Oxandrolone is an oral anabolic steroid derived from dihydrotestosterone (DHT), but in injectable form it is used for its anabolic effects with minimal androgenic activity. It is known for promoting lean muscle gains, enhancing recovery, and aiding in weight gain after trauma, surgery, or chronic illness."
+    description: "Oxandrolone is an oral anabolic steroid derived from dihydrotestosterone (DHT), but in injectable form it is used for its anabolic effects with minimal androgenic activity. It is known for promoting lean muscle gains, enhancing recovery, and aiding in weight gain after trauma, surgery, or chronic illness.",
+    images: [
+      "/products/Pharmaceutical%20Tablets/10mg%20Oxanadrol%20Oxandrolone%20Tablets/10mg-oxanadrol-oxandrolone-tablets-500x500.png",
+      "/products/Pharmaceutical%20Tablets/10mg%20Oxanadrol%20Oxandrolone%20Tablets/oxanadrol-oxandrolone-usp-10mg-500x500.jpeg"
+    ]
   },
   {
     id: "p-24",
     name: "10mg Anavar Oxandrolone Tablets",
     category: "pharmaceutical-tablets",
     strength: "10mg",
-    image: "/assets/cat_general.jpg",
+    image: "/products/Pharmaceutical%20Tablets/10mg%20Anavar%20Oxandrolone%20Tablets/10mg-anavar-oxandrolone-tablets-500x500-1.jpeg",
     brand: "Anavar",
     packagingType: "Box/Strip",
     treatment: "Clinical Indication",
@@ -504,14 +527,18 @@ export const products = [
     form: "Tablet",
     composition: "Oxandrolone",
     packagingSize: "10 x 10",
-    description: "10mg Anavar Oxandrolone Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols."
+    description: "10mg Anavar Oxandrolone Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols.",
+    images: [
+      "/products/Pharmaceutical%20Tablets/10mg%20Anavar%20Oxandrolone%20Tablets/10mg-anavar-oxandrolone-tablets-500x500-1.jpeg",
+      "/products/Pharmaceutical%20Tablets/10mg%20Anavar%20Oxandrolone%20Tablets/10mg-anavar-oxandrolone-tablets-500x500.jpeg"
+    ]
   },
   {
     id: "p-25",
     name: "10mg Vardejuv Vardenafil Tablets",
     category: "pharmaceutical-tablets",
     strength: "10mg",
-    image: "/assets/cat_general.jpg",
+    image: "/products/Pharmaceutical%20Tablets/10mg%20Vardejuv%20Vardenafil%20Tablets/vardenafil-tablets-500x500-1.jpeg",
     brand: "Vardejuv",
     packagingType: "Box/Strip",
     treatment: "Clinical Indication",
@@ -519,14 +546,19 @@ export const products = [
     form: "Tablet",
     composition: "Vardenafil",
     packagingSize: "10 x 10",
-    description: "10mg Vardejuv Vardenafil Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols."
+    description: "10mg Vardejuv Vardenafil Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols.",
+    images: [
+      "/products/Pharmaceutical%20Tablets/10mg%20Vardejuv%20Vardenafil%20Tablets/vardenafil-tablets-500x500-1.jpeg",
+      "/products/Pharmaceutical%20Tablets/10mg%20Vardejuv%20Vardenafil%20Tablets/vardenafil-tablets-500x500-2.jpeg",
+      "/products/Pharmaceutical%20Tablets/10mg%20Vardejuv%20Vardenafil%20Tablets/vardenafil-tablets-500x500.jpeg"
+    ]
   },
   {
     id: "p-26",
     name: "50mg Enclomisign Enclomiphene Tablets",
     category: "pharmaceutical-tablets",
     strength: "50mg",
-    image: "/assets/cat_general.jpg",
+    image: "/products/Pharmaceutical%20Tablets/50mg%20Enclomisign%20Enclomiphene%20Tablets/50mg-enclomisign-enclomiphene-tablets-500x500-1.jpeg",
     brand: "Enclomisign",
     packagingType: "Box/Strip",
     treatment: "Clinical Indication",
@@ -534,14 +566,19 @@ export const products = [
     form: "Tablet",
     composition: "Enclomiphene",
     packagingSize: "10 x 10",
-    description: "50mg Enclomisign Enclomiphene Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols."
+    description: "50mg Enclomisign Enclomiphene Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols.",
+    images: [
+      "/products/Pharmaceutical%20Tablets/50mg%20Enclomisign%20Enclomiphene%20Tablets/50mg-enclomisign-enclomiphene-tablets-500x500-1.jpeg",
+      "/products/Pharmaceutical%20Tablets/50mg%20Enclomisign%20Enclomiphene%20Tablets/50mg-enclomisign-enclomiphene-tablets-500x500.jpeg",
+      "/products/Pharmaceutical%20Tablets/50mg%20Enclomisign%20Enclomiphene%20Tablets/50mg-enclomisign-enclomiphene-tablets-500x500.jpg"
+    ]
   },
   {
     id: "p-27",
     name: "50mg Enclofert Enclomiphene Tablets",
     category: "pharmaceutical-tablets",
     strength: "50mg",
-    image: "/assets/cat_general.jpg",
+    image: "/products/Pharmaceutical%20Tablets/50mg%20Enclofert%20Enclomiphene%20Tablets/50mg-enclofert-enclomiphene-tablets-500x500-1.jpeg",
     brand: "Enclofert",
     packagingType: "Box/Strip",
     treatment: "Clinical Indication",
@@ -549,14 +586,19 @@ export const products = [
     form: "Tablet",
     composition: "Enclomiphene",
     packagingSize: "10 x 10",
-    description: "50mg Enclofert Enclomiphene Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols."
+    description: "50mg Enclofert Enclomiphene Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols.",
+    images: [
+      "/products/Pharmaceutical%20Tablets/50mg%20Enclofert%20Enclomiphene%20Tablets/50mg-enclofert-enclomiphene-tablets-500x500-1.jpeg",
+      "/products/Pharmaceutical%20Tablets/50mg%20Enclofert%20Enclomiphene%20Tablets/50mg-enclofert-enclomiphene-tablets-500x500.jpeg",
+      "/products/Pharmaceutical%20Tablets/50mg%20Enclofert%20Enclomiphene%20Tablets/50mg-enclomiphene-tablet-500x500.jpg"
+    ]
   },
   {
     id: "p-28",
     name: "60mg Poxet Dapoxetine HCL Tablets",
     category: "pharmaceutical-tablets",
     strength: "60mg",
-    image: "/assets/cat_general.jpg",
+    image: "/products/Pharmaceutical%20Tablets/60mg%20Poxet%20Dapoxetine%20HCL%20Tablets/60mg-poxet-dapoxetine-hcl-tablets-500x500.jpeg",
     brand: "Poxet",
     packagingType: "Box/Strip",
     treatment: "Clinical Indication",
@@ -564,14 +606,19 @@ export const products = [
     form: "Tablet",
     composition: "Dapoxetine HCL",
     packagingSize: "10 x 10",
-    description: "60mg Poxet Dapoxetine HCL Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols."
+    description: "60mg Poxet Dapoxetine HCL Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols.",
+    images: [
+      "/products/Pharmaceutical%20Tablets/60mg%20Poxet%20Dapoxetine%20HCL%20Tablets/60mg-poxet-dapoxetine-hcl-tablets-500x500.jpeg",
+      "/products/Pharmaceutical%20Tablets/60mg%20Poxet%20Dapoxetine%20HCL%20Tablets/60mg-poxet-dapoxetine-hcl-tablets-500x500.png",
+      "/products/Pharmaceutical%20Tablets/60mg%20Poxet%20Dapoxetine%20HCL%20Tablets/dapoxetine-hcl-tablets-500x500.jpg"
+    ]
   },
   {
     id: "p-29",
     name: "30mg Poxet Dapoxetine Tablets",
     category: "pharmaceutical-tablets",
     strength: "30mg",
-    image: "/assets/cat_general.jpg",
+    image: "/products/Pharmaceutical%20Tablets/30mg%20Poxet%20Dapoxetine%20Tablets/30mg-poxet-dapoxetine-tablets-500x500.jpeg",
     brand: "Poxet",
     packagingType: "Box/Strip",
     treatment: "Clinical Indication",
@@ -579,14 +626,18 @@ export const products = [
     form: "Tablet",
     composition: "Dapoxetine",
     packagingSize: "10 x 10",
-    description: "30mg Poxet Dapoxetine Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols."
+    description: "30mg Poxet Dapoxetine Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols.",
+    images: [
+      "/products/Pharmaceutical%20Tablets/30mg%20Poxet%20Dapoxetine%20Tablets/30mg-poxet-dapoxetine-tablets-500x500.jpeg",
+      "/products/Pharmaceutical%20Tablets/30mg%20Poxet%20Dapoxetine%20Tablets/30mg-poxet-dapoxetine-tablets-500x500.jpg"
+    ]
   },
   {
     id: "p-30",
     name: "10mg Vbolnor Methandienone Tablets",
     category: "pharmaceutical-tablets",
     strength: "10mg",
-    image: "/assets/cat_general.jpg",
+    image: "/products/Pharmaceutical%20Tablets/10mg%20Vbolnor%20Methandienone%20Tablets/methandienone-tablets-500x500-1.jpeg",
     brand: "Vbolnor",
     packagingType: "Box/Strip",
     treatment: "Clinical Indication",
@@ -594,14 +645,19 @@ export const products = [
     form: "Tablet",
     composition: "Methandienone",
     packagingSize: "10 x 10",
-    description: "10mg Vbolnor Methandienone Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols."
+    description: "10mg Vbolnor Methandienone Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols.",
+    images: [
+      "/products/Pharmaceutical%20Tablets/10mg%20Vbolnor%20Methandienone%20Tablets/methandienone-tablets-500x500-1.jpeg",
+      "/products/Pharmaceutical%20Tablets/10mg%20Vbolnor%20Methandienone%20Tablets/methandienone-tablets-500x500-2.jpeg",
+      "/products/Pharmaceutical%20Tablets/10mg%20Vbolnor%20Methandienone%20Tablets/methandienone-tablets-500x500.jpeg"
+    ]
   },
   {
     id: "p-31",
     name: "400mg Viadali Ademetionine Tablets",
     category: "pharmaceutical-tablets",
     strength: "400mg",
-    image: "/assets/cat_general.jpg",
+    image: "/products/Pharmaceutical%20Tablets/400mg%20Viadali%20Ademetionine%20Tablets/400mg-viadali-ademetionine-tablets-500x500-1.jpeg",
     brand: "Viadali",
     packagingType: "Box/Strip",
     treatment: "Clinical Indication",
@@ -609,14 +665,18 @@ export const products = [
     form: "Tablet",
     composition: "Ademetionine",
     packagingSize: "10 x 10",
-    description: "400mg Viadali Ademetionine Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols."
+    description: "400mg Viadali Ademetionine Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols.",
+    images: [
+      "/products/Pharmaceutical%20Tablets/400mg%20Viadali%20Ademetionine%20Tablets/400mg-viadali-ademetionine-tablets-500x500-1.jpeg",
+      "/products/Pharmaceutical%20Tablets/400mg%20Viadali%20Ademetionine%20Tablets/400mg-viadali-ademetionine-tablets-500x500.jpeg"
+    ]
   },
   {
     id: "p-32",
     name: "500mg Azicip Azithromycin Tablets",
     category: "pharmaceutical-tablets",
     strength: "500mg",
-    image: "/assets/cat_general.jpg",
+    image: "/products/Pharmaceutical%20Tablets/500mg%20Azicip%20Azithromycin%20Tablets/500mg-azicip-azithromycin-tablets-500x500.jpeg",
     brand: "Azicip",
     packagingType: "Box/Strip",
     treatment: "Clinical Indication",
@@ -624,14 +684,18 @@ export const products = [
     form: "Tablet",
     composition: "Azithromycin",
     packagingSize: "10 x 10",
-    description: "500mg Azicip Azithromycin Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols."
+    description: "500mg Azicip Azithromycin Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols.",
+    images: [
+      "/products/Pharmaceutical%20Tablets/500mg%20Azicip%20Azithromycin%20Tablets/500mg-azicip-azithromycin-tablets-500x500.jpeg",
+      "/products/Pharmaceutical%20Tablets/500mg%20Azicip%20Azithromycin%20Tablets/500mg-azicip-azithromycin-tablets-500x500.jpg"
+    ]
   },
   {
     id: "p-33",
     name: "250mg Azicip Azithromycin Tablets",
     category: "pharmaceutical-tablets",
     strength: "250mg",
-    image: "/assets/cat_general.jpg",
+    image: "/products/Pharmaceutical%20Tablets/250mg%20Azicip%20Azithromycin%20Tablets/azithromycin-tablet-500x500.jpg",
     brand: "Azicip",
     packagingType: "Box/Strip",
     treatment: "Clinical Indication",
@@ -639,14 +703,17 @@ export const products = [
     form: "Tablet",
     composition: "Azithromycin",
     packagingSize: "10 x 10",
-    description: "250mg Azicip Azithromycin Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols."
+    description: "250mg Azicip Azithromycin Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols.",
+    images: [
+      "/products/Pharmaceutical%20Tablets/250mg%20Azicip%20Azithromycin%20Tablets/azithromycin-tablet-500x500.jpg"
+    ]
   },
   {
     id: "p-34",
     name: "5mg Tofajak Tofacitinib Tablets",
     category: "pharmaceutical-tablets",
     strength: "5mg",
-    image: "/assets/cat_general.jpg",
+    image: "/products/Pharmaceutical%20Tablets/5mg%20Tofajak%20Tofacitinib%20Tablets/5mg-tofajak-tofacitinib-tablets-500x500-1.jpeg",
     brand: "Tofajak",
     packagingType: "Box/Strip",
     treatment: "Clinical Indication",
@@ -654,14 +721,19 @@ export const products = [
     form: "Tablet",
     composition: "Tofacitinib",
     packagingSize: "10 x 10",
-    description: "5mg Tofajak Tofacitinib Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols."
+    description: "5mg Tofajak Tofacitinib Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols.",
+    images: [
+      "/products/Pharmaceutical%20Tablets/5mg%20Tofajak%20Tofacitinib%20Tablets/5mg-tofajak-tofacitinib-tablets-500x500-1.jpeg",
+      "/products/Pharmaceutical%20Tablets/5mg%20Tofajak%20Tofacitinib%20Tablets/5mg-tofajak-tofacitinib-tablets-500x500.jpeg",
+      "/products/Pharmaceutical%20Tablets/5mg%20Tofajak%20Tofacitinib%20Tablets/5mg-tofajak-tofacitinib-tablets-500x500.jpg"
+    ]
   },
   {
     id: "p-35",
     name: "5mg Inramed Midodrine Hydrochloride Tablets",
     category: "pharmaceutical-tablets",
     strength: "5mg",
-    image: "/assets/cat_general.jpg",
+    image: "/products/Pharmaceutical%20Tablets/5mg%20Inramed%20Midodrine%20Hydrochloride%20Tablets/5mg-inramed-midodrine-hydrochloride-tablets-500x500-1.jpeg",
     brand: "Inramed",
     packagingType: "Box/Strip",
     treatment: "Clinical Indication",
@@ -669,14 +741,19 @@ export const products = [
     form: "Tablet",
     composition: "Midodrine Hydrochloride",
     packagingSize: "10 x 10",
-    description: "5mg Inramed Midodrine Hydrochloride Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols."
+    description: "5mg Inramed Midodrine Hydrochloride Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols.",
+    images: [
+      "/products/Pharmaceutical%20Tablets/5mg%20Inramed%20Midodrine%20Hydrochloride%20Tablets/5mg-inramed-midodrine-hydrochloride-tablets-500x500-1.jpeg",
+      "/products/Pharmaceutical%20Tablets/5mg%20Inramed%20Midodrine%20Hydrochloride%20Tablets/5mg-inramed-midodrine-hydrochloride-tablets-500x500-2.jpeg",
+      "/products/Pharmaceutical%20Tablets/5mg%20Inramed%20Midodrine%20Hydrochloride%20Tablets/5mg-inramed-midodrine-hydrochloride-tablets-500x500.jpeg"
+    ]
   },
   {
     id: "p-36",
     name: "2.5mg Inramed Midodrine Hydrochloride Tablet",
     category: "pharmaceutical-tablets",
     strength: "2.5mg",
-    image: "/assets/cat_general.jpg",
+    image: "/products/Pharmaceutical%20Tablets/2.5mg%20Inramed%20Midodrine%20Hydrochloride%20Tablet/2-5mg-inramed-midodrine-hydrochloride-tablet-500x500.jpeg",
     brand: "Inramed",
     packagingType: "Box/Strip",
     treatment: "Clinical Indication",
@@ -684,14 +761,18 @@ export const products = [
     form: "Tablet",
     composition: "Midodrine Hydrochloride",
     packagingSize: "10 x 10",
-    description: "2.5mg Inramed Midodrine Hydrochloride Tablet is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols."
+    description: "2.5mg Inramed Midodrine Hydrochloride Tablet is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols.",
+    images: [
+      "/products/Pharmaceutical%20Tablets/2.5mg%20Inramed%20Midodrine%20Hydrochloride%20Tablet/2-5mg-inramed-midodrine-hydrochloride-tablet-500x500.jpeg",
+      "/products/Pharmaceutical%20Tablets/2.5mg%20Inramed%20Midodrine%20Hydrochloride%20Tablet/2-5mg-inramed-midodrine-hydrochloride-tablet-500x500.jpg"
+    ]
   },
   {
     id: "p-37",
     name: "100mg Ridsunate Artesunate Tablets",
     category: "pharmaceutical-tablets",
     strength: "100mg",
-    image: "/assets/cat_general.jpg",
+    image: "/products/Pharmaceutical%20Tablets/100mg%20Ridsunate%20Artesunate%20Tablets/100mg-ridsunate-artesunate-tablets-500x500-1.jpeg",
     brand: "Ridsunate",
     packagingType: "Box/Strip",
     treatment: "Clinical Indication",
@@ -699,14 +780,18 @@ export const products = [
     form: "Tablet",
     composition: "Artesunate",
     packagingSize: "10 x 10",
-    description: "100mg Ridsunate Artesunate Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols."
+    description: "100mg Ridsunate Artesunate Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols.",
+    images: [
+      "/products/Pharmaceutical%20Tablets/100mg%20Ridsunate%20Artesunate%20Tablets/100mg-ridsunate-artesunate-tablets-500x500-1.jpeg",
+      "/products/Pharmaceutical%20Tablets/100mg%20Ridsunate%20Artesunate%20Tablets/100mg-ridsunate-artesunate-tablets-500x500.jpeg"
+    ]
   },
   {
     id: "p-38",
     name: "50mg Ridsunate Artesunate Tablets",
     category: "pharmaceutical-tablets",
     strength: "50mg",
-    image: "/assets/cat_general.jpg",
+    image: "/products/Pharmaceutical%20Tablets/50mg%20Ridsunate%20Artesunate%20Tablets/50mg-ridsunate-artesunate-tablets-500x500-1.jpeg",
     brand: "Ridsunate",
     packagingType: "Box/Strip",
     treatment: "Clinical Indication",
@@ -714,7 +799,13 @@ export const products = [
     form: "Tablet",
     composition: "Artesunate",
     packagingSize: "10 x 10",
-    description: "50mg Ridsunate Artesunate Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols."
+    description: "50mg Ridsunate Artesunate Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols.",
+    images: [
+      "/products/Pharmaceutical%20Tablets/50mg%20Ridsunate%20Artesunate%20Tablets/50mg-ridsunate-artesunate-tablets-500x500-1.jpeg",
+      "/products/Pharmaceutical%20Tablets/50mg%20Ridsunate%20Artesunate%20Tablets/50mg-ridsunate-artesunate-tablets-500x500.jpeg",
+      "/products/Pharmaceutical%20Tablets/50mg%20Ridsunate%20Artesunate%20Tablets/ridsunate-50-mg-artesunate-tablets-500x500.jpg",
+      "/products/Pharmaceutical%20Tablets/50mg%20Ridsunate%20Artesunate%20Tablets/ridsunate-artesunate-100mg-tablets-500x500.jpg"
+    ]
   },
   {
     id: "p-39",
@@ -2721,7 +2812,10 @@ export const products = [
     treatment: "Used to Treat Vaginal Symptoms of Menopause",
     description: "Premarin Vaginal Cream contains conjugated estrogens derived from natural sources. It is used primarily to treat vaginal and vulvar atrophy due to menopause, such as dryness, itching, burning, and pain during intercourse (dyspareunia). It delivers estrogen locally to vaginal tissues, reducing systemic absorption and associated risks compared to oral hormone therapy.",
     usage: "Personal Use",
-    type: "Cream"
+    type: "Cream",
+    images: [
+      "/products/Pharmaceutical%20Ointment/Conjugated%20Premarin%20Estrogen%20Vaginal%20Cream/image.png"
+    ]
   },
   {
     id: "p-269",
@@ -3241,6 +3335,9 @@ export const products = [
     treatment: "Used to Treat Vaginal Symptoms of Menopause",
     description: "Premarin Vaginal Cream contains conjugated estrogens derived from natural sources. It is used primarily to treat vaginal and vulvar atrophy due to menopause, such as dryness, itching, burning, and pain during intercourse (dyspareunia). It delivers estrogen locally to vaginal tissues, reducing systemic absorption and associated risks compared to oral hormone therapy.",
     usage: "Personal Use",
-    type: "Cream"
+    type: "Cream",
+    images: [
+      "/products/Pharmaceutical%20Cream/Conjugated%20Premarin%20Estrogen%20Vaginal%20Cream/image.png"
+    ]
   }
 ];

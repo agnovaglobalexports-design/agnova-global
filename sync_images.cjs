@@ -21,16 +21,19 @@ categories.forEach(cat => {
     const prodPath = path.join(catPath, prodDirName);
     if (!fs.existsSync(prodPath)) return;
 
-    // Look for image files inside prodPath
+    // Look for all image files inside prodPath
     const files = fs.readdirSync(prodPath);
-    const imageFile = files.find(f => /\.(jpe?g|png|webp|gif|svg)$/i.test(f));
+    const imageFiles = files.filter(f => /\.(jpe?g|png|webp|gif|svg)$/i.test(f));
     
-    if (imageFile) {
-      const newImagePath = `/products/${encodeURIComponent(catDirName)}/${encodeURIComponent(prodDirName)}/${imageFile}`;
-      if (prod.image !== newImagePath) {
-        prod.image = newImagePath;
+    if (imageFiles.length > 0) {
+      const allImagePaths = imageFiles.map(img => `/products/${encodeURIComponent(catDirName)}/${encodeURIComponent(prodDirName)}/${img}`);
+      const primaryImage = allImagePaths[0];
+
+      if (prod.image !== primaryImage || JSON.stringify(prod.images) !== JSON.stringify(allImagePaths)) {
+        prod.image = primaryImage;
+        prod.images = allImagePaths;
         updatedCount++;
-        console.log(`Updated image for: ${prod.name} -> ${imageFile}`);
+        console.log(`Updated images for: ${prod.name} -> ${imageFiles.length} photos found:`, imageFiles);
       }
     }
   });
@@ -40,7 +43,7 @@ if (updatedCount > 0) {
   const newCategoriesStr = 'export const categories = ' + JSON.stringify(categories, null, 2).replace(/"([^"]+)":/g, '$1:') + ';\n\n';
   const newProductsStr = 'export const products = ' + JSON.stringify(products, null, 2).replace(/"([^"]+)":/g, '$1:') + ';\n';
   fs.writeFileSync('src/data/products.js', newCategoriesStr + newProductsStr, 'utf-8');
-  console.log(`Successfully synced ${updatedCount} product images into products.js!`);
+  console.log(`Successfully synced ${updatedCount} product image sets into products.js!`);
 } else {
-  console.log('No new images detected in folders.');
+  console.log('All product images are up to date.');
 }
