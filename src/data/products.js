@@ -152,7 +152,7 @@ export const products = [
     name: "1mg Estrozol Anastrozole Tablets",
     category: "anti-cancer-medicines",
     strength: "1mg",
-    image: "/assets/cat_anticancer.jpg",
+    image: "/products/Anti%20Cancer%20Medicines/1mg%20Estrozol%20Anastrozole%20Tablets/estrozol-1mg-anastrozole-1mg-tablets-500x500-1.jpeg",
     brand: "Estrozol",
     packagingType: "Box/Strip",
     treatment: "Clinical Indication",
@@ -160,14 +160,19 @@ export const products = [
     form: "Tablet",
     composition: "Anastrozole",
     packagingSize: "10 x 10",
-    description: "1mg Estrozol Anastrozole Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols."
+    description: "1mg Estrozol Anastrozole Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols.",
+    images: [
+      "/products/Anti%20Cancer%20Medicines/1mg%20Estrozol%20Anastrozole%20Tablets/estrozol-1mg-anastrozole-1mg-tablets-500x500-1.jpeg",
+      "/products/Anti%20Cancer%20Medicines/1mg%20Estrozol%20Anastrozole%20Tablets/estrozol-1mg-anastrozole-1mg-tablets-500x500-2.jpeg",
+      "/products/Anti%20Cancer%20Medicines/1mg%20Estrozol%20Anastrozole%20Tablets/estrozol-1mg-anastrozole-1mg-tablets-500x500.jpeg"
+    ]
   },
   {
     id: "p-2",
     name: "400mg Veenat Imatinib Tablets",
     category: "anti-cancer-medicines",
     strength: "400mg",
-    image: "/assets/cat_anticancer.jpg",
+    image: "/products/Anti%20Cancer%20Medicines/400mg%20Veenat%20Imatinib%20Tablets/400mg-veenat-imatinib-tablets-500x500.jpeg",
     brand: "Veenat",
     packagingType: "Box/Strip",
     treatment: "Clinical Indication",
@@ -175,14 +180,19 @@ export const products = [
     form: "Tablet",
     composition: "Imatinib",
     packagingSize: "10 x 10",
-    description: "400mg Veenat Imatinib Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols."
+    description: "400mg Veenat Imatinib Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols.",
+    images: [
+      "/products/Anti%20Cancer%20Medicines/400mg%20Veenat%20Imatinib%20Tablets/400mg-veenat-imatinib-tablets-500x500.jpeg",
+      "/products/Anti%20Cancer%20Medicines/400mg%20Veenat%20Imatinib%20Tablets/400mg-veenat-imatinib-tablets-500x500.jpg",
+      "/products/Anti%20Cancer%20Medicines/400mg%20Veenat%20Imatinib%20Tablets/400mg-veenat-imatinib-tablets-500x500.png"
+    ]
   },
   {
     id: "p-3",
     name: "200mg Kryxana Ribociclib Tablet",
     category: "anti-cancer-medicines",
     strength: "200mg",
-    image: "/assets/cat_anticancer.jpg",
+    image: "/products/Anti%20Cancer%20Medicines/200mg%20Kryxana%20Ribociclib%20Tablet/200mg-kryxana-ribociclib-tablet-500x500-1.png",
     brand: "Kryxana",
     packagingType: "Box/Strip",
     treatment: "Clinical Indication",
@@ -190,14 +200,19 @@ export const products = [
     form: "Tablet",
     composition: "Ribociclib",
     packagingSize: "10 x 10",
-    description: "200mg Kryxana Ribociclib Tablet is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols."
+    description: "200mg Kryxana Ribociclib Tablet is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols.",
+    images: [
+      "/products/Anti%20Cancer%20Medicines/200mg%20Kryxana%20Ribociclib%20Tablet/200mg-kryxana-ribociclib-tablet-500x500-1.png",
+      "/products/Anti%20Cancer%20Medicines/200mg%20Kryxana%20Ribociclib%20Tablet/200mg-kryxana-ribociclib-tablet-500x500.png",
+      "/products/Anti%20Cancer%20Medicines/200mg%20Kryxana%20Ribociclib%20Tablet/200mg-ribociclib-film-coated-tablet-500x500.jpg"
+    ]
   },
   {
     id: "p-4",
     name: "4mg Lenris Lenvatinib Capsule",
     category: "anti-cancer-medicines",
     strength: "4mg",
-    image: "/assets/cat_anticancer.jpg",
+    image: "/products/Anti%20Cancer%20Medicines/4mg%20Lenris%20Lenvatinib%20Capsule/4mg-lenris-lenvatinib-capsule-500x500-1.jpg",
     brand: "Lenris",
     packagingType: "Box/Strip",
     treatment: "Clinical Indication",
@@ -205,14 +220,19 @@ export const products = [
     form: "Capsule",
     composition: "Lenvatinib",
     packagingSize: "10 x 10",
-    description: "4mg Lenris Lenvatinib Capsule is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this capsule is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols."
+    description: "4mg Lenris Lenvatinib Capsule is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this capsule is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols.",
+    images: [
+      "/products/Anti%20Cancer%20Medicines/4mg%20Lenris%20Lenvatinib%20Capsule/4mg-lenris-lenvatinib-capsule-500x500-1.jpg",
+      "/products/Anti%20Cancer%20Medicines/4mg%20Lenris%20Lenvatinib%20Capsule/4mg-lenris-lenvatinib-capsule-500x500.jpg",
+      "/products/Anti%20Cancer%20Medicines/4mg%20Lenris%20Lenvatinib%20Capsule/lenris-capsules-ip-4mg-500x500.jpeg"
+    ]
   },
   {
     id: "p-5",
     name: "250mg Geftinat Gefitinib Tablets",
     category: "anti-cancer-medicines",
     strength: "250mg",
-    image: "/assets/cat_anticancer.jpg",
+    image: "/products/Anti%20Cancer%20Medicines/250mg%20Geftinat%20Gefitinib%20Tablets/250-mg-geftinat-tablet-500x500.jpg",
     brand: "Geftinat",
     packagingType: "Box/Strip",
     treatment: "Clinical Indication",
@@ -220,14 +240,19 @@ export const products = [
     form: "Tablet",
     composition: "Gefitinib",
     packagingSize: "10 x 10",
-    description: "250mg Geftinat Gefitinib Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols."
+    description: "250mg Geftinat Gefitinib Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols.",
+    images: [
+      "/products/Anti%20Cancer%20Medicines/250mg%20Geftinat%20Gefitinib%20Tablets/250-mg-geftinat-tablet-500x500.jpg",
+      "/products/Anti%20Cancer%20Medicines/250mg%20Geftinat%20Gefitinib%20Tablets/250mg-geftinat-gefitinib-tablets-500x500-1.jpg",
+      "/products/Anti%20Cancer%20Medicines/250mg%20Geftinat%20Gefitinib%20Tablets/250mg-geftinat-gefitinib-tablets-500x500.jpg"
+    ]
   },
   {
     id: "p-6",
     name: "150mg Bracanat Olaparib Tablets",
     category: "anti-cancer-medicines",
     strength: "150mg",
-    image: "/assets/cat_anticancer.jpg",
+    image: "/products/Anti%20Cancer%20Medicines/150mg%20Bracanat%20Olaparib%20Tablets/150mg-bracanar-olaparib-tablets-500x500.jpeg",
     brand: "Bracanat",
     packagingType: "Box/Strip",
     treatment: "Clinical Indication",
@@ -235,14 +260,19 @@ export const products = [
     form: "Tablet",
     composition: "Olaparib",
     packagingSize: "10 x 10",
-    description: "150mg Bracanat Olaparib Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols."
+    description: "150mg Bracanat Olaparib Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols.",
+    images: [
+      "/products/Anti%20Cancer%20Medicines/150mg%20Bracanat%20Olaparib%20Tablets/150mg-bracanar-olaparib-tablets-500x500.jpeg",
+      "/products/Anti%20Cancer%20Medicines/150mg%20Bracanat%20Olaparib%20Tablets/150mg-bracanat-olaparib-tablets-500x500-1.png",
+      "/products/Anti%20Cancer%20Medicines/150mg%20Bracanat%20Olaparib%20Tablets/150mg-bracanat-olaparib-tablets-500x500.png"
+    ]
   },
   {
     id: "p-7",
     name: "40mg Regonat Regorafenib Tablets",
     category: "anti-cancer-medicines",
     strength: "40mg",
-    image: "/assets/cat_anticancer.jpg",
+    image: "/products/Anti%20Cancer%20Medicines/40mg%20Regonat%20Regorafenib%20Tablets/40-mg-regorafenib-tablet-500x500.jpg",
     brand: "Regonat",
     packagingType: "Box/Strip",
     treatment: "Clinical Indication",
@@ -250,14 +280,20 @@ export const products = [
     form: "Tablet",
     composition: "Regorafenib",
     packagingSize: "10 x 10",
-    description: "40mg Regonat Regorafenib Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols."
+    description: "40mg Regonat Regorafenib Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols.",
+    images: [
+      "/products/Anti%20Cancer%20Medicines/40mg%20Regonat%20Regorafenib%20Tablets/40-mg-regorafenib-tablet-500x500.jpg",
+      "/products/Anti%20Cancer%20Medicines/40mg%20Regonat%20Regorafenib%20Tablets/40mg-regonat-regorafenib-tablets-500x500.jpeg",
+      "/products/Anti%20Cancer%20Medicines/40mg%20Regonat%20Regorafenib%20Tablets/regonat-40mg-tablets-500x500-1.jpeg",
+      "/products/Anti%20Cancer%20Medicines/40mg%20Regonat%20Regorafenib%20Tablets/regonat-40mg-tablets-500x500.jpeg"
+    ]
   },
   {
     id: "p-8",
     name: "250mg Abirapro Abiraterone Acetate Tablets",
     category: "anti-cancer-medicines",
     strength: "250mg",
-    image: "/assets/cat_anticancer.jpg",
+    image: "/products/Anti%20Cancer%20Medicines/250mg%20Abirapro%20Abiraterone%20Acetate%20Tablets/250mg-abirapro-abiraterone-acetate-tablets-500x500-1.png",
     brand: "Abirapro",
     packagingType: "Box/Strip",
     treatment: "Clinical Indication",
@@ -265,14 +301,19 @@ export const products = [
     form: "Tablet",
     composition: "Abiraterone Acetate",
     packagingSize: "10 x 10",
-    description: "250mg Abirapro Abiraterone Acetate Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols."
+    description: "250mg Abirapro Abiraterone Acetate Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols.",
+    images: [
+      "/products/Anti%20Cancer%20Medicines/250mg%20Abirapro%20Abiraterone%20Acetate%20Tablets/250mg-abirapro-abiraterone-acetate-tablets-500x500-1.png",
+      "/products/Anti%20Cancer%20Medicines/250mg%20Abirapro%20Abiraterone%20Acetate%20Tablets/250mg-abirapro-abiraterone-acetate-tablets-500x500-2.png",
+      "/products/Anti%20Cancer%20Medicines/250mg%20Abirapro%20Abiraterone%20Acetate%20Tablets/250mg-abirapro-abiraterone-acetate-tablets-500x500.png"
+    ]
   },
   {
     id: "p-9",
     name: "150mg Ramiven Abemaciclib Tablets",
     category: "anti-cancer-medicines",
     strength: "150mg",
-    image: "/assets/cat_anticancer.jpg",
+    image: "/products/Anti%20Cancer%20Medicines/150mg%20Ramiven%20Abemaciclib%20Tablets/150mg-ramiven-abemaciclib-tablets-500x500.png",
     brand: "Ramiven",
     packagingType: "Box/Strip",
     treatment: "Clinical Indication",
@@ -280,14 +321,19 @@ export const products = [
     form: "Tablet",
     composition: "Abemaciclib",
     packagingSize: "10 x 10",
-    description: "150mg Ramiven Abemaciclib Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols."
+    description: "150mg Ramiven Abemaciclib Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols.",
+    images: [
+      "/products/Anti%20Cancer%20Medicines/150mg%20Ramiven%20Abemaciclib%20Tablets/150mg-ramiven-abemaciclib-tablets-500x500.png",
+      "/products/Anti%20Cancer%20Medicines/150mg%20Ramiven%20Abemaciclib%20Tablets/abemaciclib-tablet-500x500-1.jpeg",
+      "/products/Anti%20Cancer%20Medicines/150mg%20Ramiven%20Abemaciclib%20Tablets/abemaciclib-tablet-500x500.jpeg"
+    ]
   },
   {
     id: "p-10",
     name: "1mg Armotraz Anastrozole Tablets",
     category: "anti-cancer-medicines",
     strength: "1mg",
-    image: "/assets/cat_anticancer.jpg",
+    image: "/products/Anti%20Cancer%20Medicines/1mg%20Armotraz%20Anastrozole%20Tablets/1mg-armotraz-anastrozole-tablets-500x500.png",
     brand: "Armotraz",
     packagingType: "Box/Strip",
     treatment: "Clinical Indication",
@@ -295,14 +341,19 @@ export const products = [
     form: "Tablet",
     composition: "Anastrozole",
     packagingSize: "10 x 10",
-    description: "1mg Armotraz Anastrozole Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols."
+    description: "1mg Armotraz Anastrozole Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols.",
+    images: [
+      "/products/Anti%20Cancer%20Medicines/1mg%20Armotraz%20Anastrozole%20Tablets/1mg-armotraz-anastrozole-tablets-500x500.png",
+      "/products/Anti%20Cancer%20Medicines/1mg%20Armotraz%20Anastrozole%20Tablets/anastrozole-tablets-500x500-1.jpeg",
+      "/products/Anti%20Cancer%20Medicines/1mg%20Armotraz%20Anastrozole%20Tablets/anastrozole-tablets-500x500.jpeg"
+    ]
   },
   {
     id: "p-11",
     name: "Kabanat Cabazitaxel 60 Mg Injection",
     category: "anti-cancer-medicines",
     strength: "60 Mg",
-    image: "/assets/cat_anticancer.jpg",
+    image: "/products/Anti%20Cancer%20Medicines/Kabanat%20Cabazitaxel%2060%20Mg%20Injection/WhatsApp Image 2026-08-18 at 4.42.25 PM.jpeg",
     brand: "Kabanat",
     packagingType: "Vial/Ampoule",
     treatment: "Clinical Indication",
@@ -310,14 +361,18 @@ export const products = [
     form: "Injection",
     composition: "Cabazitaxel 60 Mg",
     packagingSize: "1 Vial",
-    description: "Kabanat Cabazitaxel 60 Mg Injection is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this injection is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols."
+    description: "Kabanat Cabazitaxel 60 Mg Injection is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this injection is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols.",
+    images: [
+      "/products/Anti%20Cancer%20Medicines/Kabanat%20Cabazitaxel%2060%20Mg%20Injection/WhatsApp Image 2026-08-18 at 4.42.25 PM.jpeg",
+      "/products/Anti%20Cancer%20Medicines/Kabanat%20Cabazitaxel%2060%20Mg%20Injection/WhatsApp Image 2026-08-18 at 4.42.26 PM.jpeg"
+    ]
   },
   {
     id: "p-12",
     name: "Maball 500 Mg",
     category: "anti-cancer-medicines",
     strength: "500 Mg",
-    image: "/assets/cat_anticancer.jpg",
+    image: "/products/Anti%20Cancer%20Medicines/Maball%20500%20Mg/maball-500-mg-500x500-1.jpeg",
     brand: "Maball",
     packagingType: "Box/Strip",
     treatment: "Clinical Indication",
@@ -325,14 +380,18 @@ export const products = [
     form: "Tablet",
     composition: "500 Mg",
     packagingSize: "10 x 10",
-    description: "Maball 500 Mg is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols."
+    description: "Maball 500 Mg is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols.",
+    images: [
+      "/products/Anti%20Cancer%20Medicines/Maball%20500%20Mg/maball-500-mg-500x500-1.jpeg",
+      "/products/Anti%20Cancer%20Medicines/Maball%20500%20Mg/maball-500-mg-500x500.jpeg"
+    ]
   },
   {
     id: "p-13",
     name: "Temotero 100mg Capsules",
     category: "anti-cancer-medicines",
     strength: "100mg",
-    image: "/assets/cat_anticancer.jpg",
+    image: "/products/Anti%20Cancer%20Medicines/Temotero%20100mg%20Capsules/0c622d49-0568-4c06-957e-07d436d08b27-500x500.jpeg",
     brand: "Temotero",
     packagingType: "Box/Strip",
     treatment: "Clinical Indication",
@@ -340,14 +399,18 @@ export const products = [
     form: "Capsule",
     composition: "100mg",
     packagingSize: "10 x 10",
-    description: "Temotero 100mg Capsules is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this capsule is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols."
+    description: "Temotero 100mg Capsules is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this capsule is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols.",
+    images: [
+      "/products/Anti%20Cancer%20Medicines/Temotero%20100mg%20Capsules/0c622d49-0568-4c06-957e-07d436d08b27-500x500.jpeg",
+      "/products/Anti%20Cancer%20Medicines/Temotero%20100mg%20Capsules/2eae2185-ec0d-4516-a79c-51f2bf37ac15-500x500.jpeg"
+    ]
   },
   {
     id: "p-14",
     name: "Zoladex 10.8 Mg Injection",
     category: "anti-cancer-medicines",
     strength: "10.8 Mg",
-    image: "/assets/cat_anticancer.jpg",
+    image: "/products/Anti%20Cancer%20Medicines/Zoladex%2010.8%20Mg%20Injection/photo-2026-05-18-15-05-41-2-500x500.jpeg",
     brand: "Zoladex",
     packagingType: "Vial/Ampoule",
     treatment: "Clinical Indication",
@@ -355,14 +418,19 @@ export const products = [
     form: "Injection",
     composition: "10.8 Mg",
     packagingSize: "1 Vial",
-    description: "Zoladex 10.8 Mg Injection is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this injection is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols."
+    description: "Zoladex 10.8 Mg Injection is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this injection is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols.",
+    images: [
+      "/products/Anti%20Cancer%20Medicines/Zoladex%2010.8%20Mg%20Injection/photo-2026-05-18-15-05-41-2-500x500.jpeg",
+      "/products/Anti%20Cancer%20Medicines/Zoladex%2010.8%20Mg%20Injection/photo-2026-05-18-15-05-41-500x500.jpeg",
+      "/products/Anti%20Cancer%20Medicines/Zoladex%2010.8%20Mg%20Injection/photo-2026-05-18-15-05-42-500x500.jpeg"
+    ]
   },
   {
     id: "p-15",
     name: "Piclib 125",
     category: "anti-cancer-medicines",
     strength: "As prescribed",
-    image: "/assets/cat_anticancer.jpg",
+    image: "/products/Anti%20Cancer%20Medicines/Piclib%20125/piclib-125-500x500-1.jpeg",
     brand: "Piclib",
     packagingType: "Box/Strip",
     treatment: "Clinical Indication",
@@ -370,14 +438,22 @@ export const products = [
     form: "Tablet",
     composition: "125",
     packagingSize: "10 x 10",
-    description: "Piclib 125 is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols."
+    description: "Piclib 125 is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols.",
+    images: [
+      "/products/Anti%20Cancer%20Medicines/Piclib%20125/piclib-125-500x500-1.jpeg",
+      "/products/Anti%20Cancer%20Medicines/Piclib%20125/piclib-125-500x500-2.jpeg",
+      "/products/Anti%20Cancer%20Medicines/Piclib%20125/piclib-125-500x500-3.jpeg",
+      "/products/Anti%20Cancer%20Medicines/Piclib%20125/piclib-125-500x500-4.jpeg",
+      "/products/Anti%20Cancer%20Medicines/Piclib%20125/piclib-125-500x500-5.jpeg",
+      "/products/Anti%20Cancer%20Medicines/Piclib%20125/piclib-125-500x500.jpeg"
+    ]
   },
   {
     id: "p-16",
     name: "40mg Nublexa Regorafenib Tablets",
     category: "anti-cancer-medicines",
     strength: "40mg",
-    image: "/assets/cat_anticancer.jpg",
+    image: "/products/Anti%20Cancer%20Medicines/40mg%20Nublexa%20Regorafenib%20Tablets/40mg-nublexa-regorafenib-tablets-500x500.jpeg",
     brand: "Nublexa",
     packagingType: "Box/Strip",
     treatment: "Clinical Indication",
@@ -385,14 +461,18 @@ export const products = [
     form: "Tablet",
     composition: "Regorafenib",
     packagingSize: "10 x 10",
-    description: "40mg Nublexa Regorafenib Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols."
+    description: "40mg Nublexa Regorafenib Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols.",
+    images: [
+      "/products/Anti%20Cancer%20Medicines/40mg%20Nublexa%20Regorafenib%20Tablets/40mg-nublexa-regorafenib-tablets-500x500.jpeg",
+      "/products/Anti%20Cancer%20Medicines/40mg%20Nublexa%20Regorafenib%20Tablets/40mg-nublexa-regorafenib-tablets-500x500.png"
+    ]
   },
   {
     id: "p-17",
     name: "0.5mg Lanolimus Everolimus Tablets",
     category: "anti-cancer-medicines",
     strength: "0.5mg",
-    image: "/assets/cat_anticancer.jpg",
+    image: "/products/Anti%20Cancer%20Medicines/0.5mg%20Lanolimus%20Everolimus%20Tablets/0-5mg-lanolimus-everolimus-tablets-500x500-1.png",
     brand: "Lanolimus",
     packagingType: "Box/Strip",
     treatment: "Clinical Indication",
@@ -400,14 +480,19 @@ export const products = [
     form: "Tablet",
     composition: "Everolimus",
     packagingSize: "10 x 10",
-    description: "0.5mg Lanolimus Everolimus Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols."
+    description: "0.5mg Lanolimus Everolimus Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols.",
+    images: [
+      "/products/Anti%20Cancer%20Medicines/0.5mg%20Lanolimus%20Everolimus%20Tablets/0-5mg-lanolimus-everolimus-tablets-500x500-1.png",
+      "/products/Anti%20Cancer%20Medicines/0.5mg%20Lanolimus%20Everolimus%20Tablets/0-5mg-lanolimus-everolimus-tablets-500x500.jpeg",
+      "/products/Anti%20Cancer%20Medicines/0.5mg%20Lanolimus%20Everolimus%20Tablets/0-5mg-lanolimus-everolimus-tablets-500x500.png"
+    ]
   },
   {
     id: "p-18",
     name: "Sorafenat Sorafenib Tablets",
     category: "anti-cancer-medicines",
     strength: "As prescribed",
-    image: "/assets/cat_anticancer.jpg",
+    image: "/products/Anti%20Cancer%20Medicines/Sorafenat%20Sorafenib%20Tablets/sorafenat-sorafenib-tablets-500x500.png",
     brand: "Sorafenat",
     packagingType: "Box/Strip",
     treatment: "Clinical Indication",
@@ -415,7 +500,12 @@ export const products = [
     form: "Tablet",
     composition: "Sorafenib",
     packagingSize: "10 x 10",
-    description: "Sorafenat Sorafenib Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols."
+    description: "Sorafenat Sorafenib Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols.",
+    images: [
+      "/products/Anti%20Cancer%20Medicines/Sorafenat%20Sorafenib%20Tablets/sorafenat-sorafenib-tablets-500x500.png",
+      "/products/Anti%20Cancer%20Medicines/Sorafenat%20Sorafenib%20Tablets/whatsapp-image-2025-06-24-at-17-18-40-312835ba-500x500.jpeg",
+      "/products/Anti%20Cancer%20Medicines/Sorafenat%20Sorafenib%20Tablets/whatsapp-image-2025-06-24-at-17-18-40-6a8a2bde-500x500.jpeg"
+    ]
   },
   {
     id: "p-19",
@@ -1037,7 +1127,7 @@ export const products = [
     name: "5mg Healpecia Finasteride Tablets",
     category: "pharmaceutical-tablets",
     strength: "5mg",
-    image: "/assets/cat_general.jpg",
+    image: "/products/Pharmaceutical%20Tablets/5mg%20Healpecia%20Finasteride%20Tablets/images.jpg",
     brand: "Healpecia",
     packagingType: "Box/Strip",
     treatment: "Clinical Indication",
@@ -1045,7 +1135,12 @@ export const products = [
     form: "Tablet",
     composition: "Finasteride",
     packagingSize: "10 x 10",
-    description: "5mg Healpecia Finasteride Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols."
+    description: "5mg Healpecia Finasteride Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols.",
+    images: [
+      "/products/Pharmaceutical%20Tablets/5mg%20Healpecia%20Finasteride%20Tablets/images.jpg",
+      "/products/Pharmaceutical%20Tablets/5mg%20Healpecia%20Finasteride%20Tablets/WhatsApp Image 2026-08-18 at 4.47.41 PM.jpeg",
+      "/products/Pharmaceutical%20Tablets/5mg%20Healpecia%20Finasteride%20Tablets/WhatsApp Image 2026-08-18 at 4.47.42 PM.jpeg"
+    ]
   },
   {
     id: "p-55",
@@ -1067,7 +1162,7 @@ export const products = [
     name: "10mg Stazol Stanozolol Tablets",
     category: "pharmaceutical-tablets",
     strength: "10mg",
-    image: "/assets/cat_general.jpg",
+    image: "/products/Pharmaceutical%20Tablets/10mg%20Stazol%20Stanozolol%20Tablets/WhatsApp Image 2026-08-18 at 4.48.52 PM.jpeg",
     brand: "Stazol",
     packagingType: "Box/Strip",
     treatment: "Clinical Indication",
@@ -1075,7 +1170,10 @@ export const products = [
     form: "Tablet",
     composition: "Stanozolol",
     packagingSize: "10 x 10",
-    description: "10mg Stazol Stanozolol Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols."
+    description: "10mg Stazol Stanozolol Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols.",
+    images: [
+      "/products/Pharmaceutical%20Tablets/10mg%20Stazol%20Stanozolol%20Tablets/WhatsApp Image 2026-08-18 at 4.48.52 PM.jpeg"
+    ]
   },
   {
     id: "p-57",
