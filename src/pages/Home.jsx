@@ -22,8 +22,19 @@ const Home = () => {
 
   const [currentHeroSlide, setCurrentHeroSlide] = useState(0);
 
+  // Preload all carousel images into memory for instant transitions
+  useEffect(() => {
+    heroSlides.forEach((slide) => {
+      if (slide.image) {
+        const img = new Image();
+        img.src = slide.image;
+      }
+    });
+  }, [heroSlides]);
+
   // 2-second auto-cycling hero carousel
   useEffect(() => {
+    if (heroSlides.length <= 1) return;
     const interval = setInterval(() => {
       setCurrentHeroSlide((prev) => (prev + 1) % heroSlides.length);
     }, 2000);
@@ -97,26 +108,36 @@ const Home = () => {
 
           <div className="hero-visual animate-fade-in">
             <div className="hero-card-wrapper">
-              <img
-                key={currentHeroSlide}
-                src={heroSlides[currentHeroSlide].image}
-                alt="Pharmaceutical Products"
-                className="hero-product-img hero-slide-fade"
-              />
+              <div className="hero-slides-container">
+                {heroSlides.map((slide, idx) => (
+                  <img
+                    key={idx}
+                    src={slide.image}
+                    alt="Pharmaceutical Products"
+                    className={`hero-product-img ${currentHeroSlide === idx ? 'active-slide' : 'inactive-slide'}`}
+                    loading={idx === 0 ? 'eager' : 'lazy'}
+                    decoding="async"
+                    onError={(e) => {
+                      e.currentTarget.onerror = null;
+                      e.currentTarget.src = '/assets/anti_cancer_meds.jpg';
+                    }}
+                  />
+                ))}
+              </div>
               
               <div className="hero-float-card card-top">
                 <HeartPulse size={20} className="float-icon" />
                 <div>
-                  <strong>{heroSlides[currentHeroSlide].tag}</strong>
-                  <span>{heroSlides[currentHeroSlide].tagSub}</span>
+                  <strong>{heroSlides[currentHeroSlide]?.tag || 'Quality Certified'}</strong>
+                  <span>{heroSlides[currentHeroSlide]?.tagSub || 'WHO-GMP Approved'}</span>
                 </div>
               </div>
 
               <div className="hero-float-card card-bottom">
                 <Globe size={20} className="float-icon" />
                 <div>
-                  <strong>{heroSlides[currentHeroSlide].badge}</strong>
-                  <span>{heroSlides[currentHeroSlide].badgeSub}</span>
+                  <strong>{heroSlides[currentHeroSlide]?.badge || '50+ Countries'}</strong>
+                  <span>{heroSlides[currentHeroSlide]?.badgeSub || 'Worldwide Export'}</span>
                 </div>
               </div>
 
