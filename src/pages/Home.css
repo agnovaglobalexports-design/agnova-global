@@ -147,6 +147,54 @@
   display: block;
   box-shadow: 0 30px 60px rgba(0, 0, 0, 0.5);
   border: 3px solid rgba(76, 175, 16, 0.3);
+  transition: opacity 0.4s ease;
+}
+
+.hero-slide-fade {
+  animation: heroCrossfade 0.4s ease-in-out;
+}
+
+@keyframes heroCrossfade {
+  from {
+    opacity: 0.7;
+    transform: scale(0.99);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+.hero-dots-indicator {
+  position: absolute;
+  bottom: 1.25rem;
+  left: 50%;
+  transform: translateX(-50%);
+  display: flex;
+  gap: 0.45rem;
+  background: rgba(1, 26, 74, 0.65);
+  backdrop-filter: blur(8px);
+  padding: 0.35rem 0.75rem;
+  border-radius: 2rem;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  z-index: 10;
+}
+
+.hero-dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: rgba(255, 255, 255, 0.4);
+  border: none;
+  cursor: pointer;
+  padding: 0;
+  transition: all 0.25s ease;
+}
+
+.hero-dot.active {
+  background: #4CAF10;
+  width: 20px;
+  border-radius: 4px;
 }
 
 /* Floating Cards */
