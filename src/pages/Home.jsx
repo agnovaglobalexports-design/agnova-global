@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
 import { ArrowRight, Globe, ShieldCheck, Award, Truck, Phone, FlaskConical, HeartPulse, CheckCircle2 } from 'lucide-react';
 import CategorySection from '../components/CategorySection';
+import AnimatedCounter from '../components/AnimatedCounter';
 import { categories, products } from '../data/products';
 import './Home.css';
 
@@ -51,10 +52,10 @@ const Home = () => {
   }, [heroSlides.length]);
 
   const stats = [
-    { value: '5+', label: 'Years Experience' },
-    { value: '5000+', label: 'Products Exported' },
-    { value: '50+', label: 'Countries Served' },
-    { value: '99%', label: 'Client Satisfaction' },
+    { target: 5, suffix: '+', label: 'Years Experience' },
+    { target: 5000, suffix: '+', label: 'Products Exported' },
+    { target: 50, suffix: '+', label: 'Countries Served' },
+    { target: 99, suffix: '%', label: 'Client Satisfaction' },
   ];
 
   const features = [
@@ -161,7 +162,7 @@ const Home = () => {
         <div className="container stats-grid">
           {stats.map((s, i) => (
             <div className="stat-item" key={i}>
-              <span className="stat-value">{s.value}</span>
+              <AnimatedCounter target={s.target} suffix={s.suffix} duration={1800} />
               <span className="stat-label">{s.label}</span>
             </div>
           ))}
