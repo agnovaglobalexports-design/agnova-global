@@ -62,7 +62,15 @@ const ProductDetail = () => {
           {/* Left Column - Image Gallery */}
           <div className="detail-image-col">
             <div className="image-wrapper glass-panel">
-              <img src={selectedImage || product.image} alt={product.name} className="main-image" />
+              <img 
+                src={selectedImage || product.image} 
+                alt={product.name} 
+                className="main-image"
+                onError={(e) => {
+                  e.currentTarget.onerror = null;
+                  e.currentTarget.src = '/assets/anti_cancer_meds.jpg';
+                }}
+              />
               
               {/* Multi-image thumbnail selector */}
               {allImages.length > 1 && (
@@ -74,6 +82,10 @@ const ProductDetail = () => {
                       alt={`${product.name} view ${idx + 1}`}
                       className={`thumbnail-item ${selectedImage === img ? 'active' : ''}`}
                       onClick={() => setSelectedImage(img)}
+                      onError={(e) => {
+                        e.currentTarget.onerror = null;
+                        e.currentTarget.src = '/assets/anti_cancer_meds.jpg';
+                      }}
                     />
                   ))}
                 </div>

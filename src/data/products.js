@@ -1710,7 +1710,7 @@ export const products = [
     name: "Cialista 80mg Tablets.",
     category: "tadalafil-tablets",
     strength: "80mg",
-    image: "/assets/cat_general.jpg",
+    image: "/products/Tadalafil%20Tablets/Cialista%2080mg%20Tablets/cialista-80mg-tablets-500x500-1.jpeg",
     brand: "Cialista",
     packagingType: "Box/Strip",
     treatment: "Clinical Indication",
@@ -1718,7 +1718,12 @@ export const products = [
     form: "Tablet",
     composition: "80mg .",
     packagingSize: "10 x 10",
-    description: "Cialista 80mg Tablets. is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols."
+    description: "Cialista 80mg Tablets. is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols.",
+    images: [
+      "/products/Tadalafil%20Tablets/Cialista%2080mg%20Tablets/cialista-80mg-tablets-500x500-1.jpeg",
+      "/products/Tadalafil%20Tablets/Cialista%2080mg%20Tablets/cialista-80mg-tablets-500x500-2.jpeg",
+      "/products/Tadalafil%20Tablets/Cialista%2080mg%20Tablets/cialista-80mg-tablets-500x500.jpeg"
+    ]
   },
   {
     id: "p-82",

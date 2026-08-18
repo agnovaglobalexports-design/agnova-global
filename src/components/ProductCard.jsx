@@ -30,6 +30,10 @@ const ProductCard = ({ product }) => {
           alt={`${product.name} view ${currentImgIndex + 1}`} 
           className="product-image fade-image"
           key={currentImgIndex}
+          onError={(e) => {
+            e.currentTarget.onerror = null;
+            e.currentTarget.src = '/assets/anti_cancer_meds.jpg';
+          }}
         />
         <div className="product-category-badge">{product.category.replace(/-/g, ' ')}</div>
 
