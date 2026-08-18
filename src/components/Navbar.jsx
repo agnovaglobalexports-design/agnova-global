@@ -64,10 +64,13 @@ const Navbar = () => {
               <img src="/assets/logo.jpg" alt="Agnova Global Logo" className="logo-img" />
             </Link>
             <div className="company-info">
-              <Link to="/" className="company-name">Agnova Global Exports</Link>
+              <Link to="/" className="company-name">
+                <span className="brand-primary">Agnova Global</span>
+                <span className="brand-tag">Exports</span>
+              </Link>
               <div className="company-meta">
-                <span className="meta-item">
-                  <MapPin size={13} /> Indore, Madhya Pradesh
+                <span className="meta-item location-item">
+                  <MapPin size={12} className="location-pin" /> Indore, India
                 </span>
                 <span className="meta-divider">|</span>
                 <span className="meta-item gst">
