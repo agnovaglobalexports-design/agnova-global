@@ -108,13 +108,13 @@ const Footer = () => {
                 </div>
               </div>
 
-              {/* CEO Info */}
+              {/* Founder & CEO Info */}
               <div className="reach-item">
                 <div className="reach-icon-wrapper">
                   <User size={22} className="reach-icon" />
                 </div>
                 <div className="reach-text">
-                  <strong className="reach-person-name">Aman Gajbhiye <span className="designation">(CEO)</span></strong>
+                  <strong className="reach-person-name">Aman Gajbhiye <span className="designation">(Founder & CEO)</span></strong>
                 </div>
               </div>
 
