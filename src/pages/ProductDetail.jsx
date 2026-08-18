@@ -24,6 +24,21 @@ const ProductDetail = () => {
     }
   }, [id, navigate]);
 
+  // Auto-rotate detail image every 2 seconds if product has multiple images
+  useEffect(() => {
+    if (!product || !product.images || product.images.length <= 1) return;
+
+    const interval = setInterval(() => {
+      setSelectedImage((prev) => {
+        const currentIndex = product.images.indexOf(prev);
+        const nextIndex = (currentIndex + 1) % product.images.length;
+        return product.images[nextIndex];
+      });
+    }, 2000);
+
+    return () => clearInterval(interval);
+  }, [product]);
+
   if (!product) return <div className="loading-state">Loading...</div>;
 
   const whatsappMessage = `Hello Agnova Global Exports, I am interested in getting a quote for ${product.name}.`;
