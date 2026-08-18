@@ -110,41 +110,46 @@
 .action-btn {
   display: inline-flex;
   align-items: center;
-  gap: 0.5rem;
-  padding: 0.5rem 1rem;
-  border-radius: 0.4rem;
-  font-weight: 600;
-  font-size: 0.85rem;
+  justify-content: center;
+  gap: 0.55rem;
+  padding: 0.6rem 1.25rem;
+  height: 42px;
+  min-width: 140px;
+  border-radius: 0.5rem;
+  font-weight: 700;
+  font-size: 0.92rem;
   text-decoration: none;
   transition: all 0.25s ease;
   cursor: pointer;
-  border: none;
+  box-sizing: border-box;
 }
 
-.call-btn {
+.get-quote-header-btn {
+  background: #4CAF10;
+  color: #ffffff;
+  border: 1.5px solid #4CAF10;
+  box-shadow: 0 4px 14px rgba(76, 175, 16, 0.2);
+}
+
+.get-quote-header-btn:hover {
+  background: #3d9a0d;
+  border-color: #3d9a0d;
+  transform: translateY(-1px);
+  box-shadow: 0 6px 18px rgba(76, 175, 16, 0.3);
+}
+
+.email-header-btn {
+  background: #ffffff;
+  color: #022055;
+  border: 1.5px solid #022055;
+}
+
+.email-header-btn:hover {
   background: #022055;
-  color: #fff;
+  color: #ffffff;
+  transform: translateY(-1px);
+  box-shadow: 0 6px 18px rgba(2, 32, 85, 0.15);
 }
-.call-btn:hover { background: #0b3d92; }
-
-.call-btn .btn-main-text {
-  display: block;
-  font-size: 0.9rem;
-  font-weight: 700;
-  line-height: 1.1;
-}
-.call-btn .btn-sub-text {
-  display: block;
-  font-size: 0.68rem;
-  opacity: 0.8;
-  font-weight: 400;
-}
-
-.email-btn {
-  background: #ef4444;
-  color: #fff;
-}
-.email-btn:hover { background: #dc2626; }
 
 /* ─────────────────────────────────────────
    BOTTOM NAV BAR
@@ -501,9 +506,14 @@
 }
 
 @media (max-width: 620px) {
-  .company-name { font-size: 1rem; }
+  .company-name { font-size: 1.05rem; }
   .top-bar-right { gap: 0.5rem; }
-  .email-btn { display: none; }
+  .action-btn { 
+    min-width: auto;
+    padding: 0.5rem 0.85rem; 
+    height: 38px;
+    font-size: 0.82rem;
+  }
   .logo-img { width: 50px; height: 50px; }
   .top-bar-inner { gap: 0.75rem; }
 }
@@ -511,5 +521,6 @@
 @media (max-width: 480px) {
   .meta-divider { display: none; }
   .meta-item:not(:first-child) { display: none; }
-  .call-btn .btn-sub-text { display: none; }
+  .email-header-btn span { display: none; }
+  .email-header-btn { padding: 0.5rem 0.75rem; }
 }

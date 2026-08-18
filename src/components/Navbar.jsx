@@ -1,6 +1,6 @@
 import React, { useState, useRef } from 'react';
 import { Link, useLocation, useNavigate } from 'react-router-dom';
-import { Menu, X, Phone, Mail, MapPin, ShieldCheck, BadgeCheck, Search, ChevronDown } from 'lucide-react';
+import { Menu, X, Phone, Mail, MapPin, ShieldCheck, BadgeCheck, Search, ChevronDown, MessageCircle } from 'lucide-react';
 import { categories, products } from '../data/products';
 import './Navbar.css';
 
@@ -90,20 +90,17 @@ const Navbar = () => {
             </div>
 
             <a
-              href={`https://wa.me/${WHATSAPP_NUMBER}`}
+              href={`https://wa.me/${WHATSAPP_NUMBER}?text=${encodeURIComponent('Hello Agnova Global Exports, I would like to request a quotation for pharmaceutical products.')}`}
               target="_blank"
               rel="noopener noreferrer"
-              className="action-btn call-btn"
+              className="action-btn get-quote-header-btn"
             >
-              <Phone size={16} />
-              <div>
-                <span className="btn-main-text">+91 79701 53653</span>
-                <span className="btn-sub-text">Call / WhatsApp</span>
-              </div>
+              <MessageCircle size={18} />
+              <span>Get Quote</span>
             </a>
 
-            <a href="mailto:agnovaglobalexports@gmail.com" className="action-btn email-btn">
-              <Mail size={16} />
+            <a href="mailto:agnovaglobalexports@gmail.com" className="action-btn email-header-btn">
+              <Mail size={18} />
               <span>Send Email</span>
             </a>
           </div>
