@@ -902,7 +902,7 @@ export const products = [
     name: "500mg Graftide Mycophenolate Mofetil Tablets",
     category: "pharmaceutical-tablets",
     strength: "500mg",
-    image: "/assets/cat_general.jpg",
+    image: "/products/Pharmaceutical%20Tablets/500mg%20Graftide%20Mycophenolate%20Mofetil%20Tablets/500mg mylan.jpeg",
     brand: "Graftide",
     packagingType: "Box/Strip",
     treatment: "Clinical Indication",
@@ -910,14 +910,18 @@ export const products = [
     form: "Tablet",
     composition: "Mycophenolate Mofetil",
     packagingSize: "10 x 10",
-    description: "500mg Graftide Mycophenolate Mofetil Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols."
+    description: "500mg Graftide Mycophenolate Mofetil Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols.",
+    images: [
+      "/products/Pharmaceutical%20Tablets/500mg%20Graftide%20Mycophenolate%20Mofetil%20Tablets/500mg mylan.jpeg",
+      "/products/Pharmaceutical%20Tablets/500mg%20Graftide%20Mycophenolate%20Mofetil%20Tablets/graftide 500mg.jpeg"
+    ]
   },
   {
     id: "p-40",
     name: "25mg Jardiance Empagliflozin Tablets",
     category: "pharmaceutical-tablets",
     strength: "25mg",
-    image: "/assets/cat_general.jpg",
+    image: "/products/Pharmaceutical%20Tablets/25mg%20Jardiance%20Empagliflozin%20Tablets/25mg rx.jpeg",
     brand: "Jardiance",
     packagingType: "Box/Strip",
     treatment: "Clinical Indication",
@@ -925,14 +929,17 @@ export const products = [
     form: "Tablet",
     composition: "Empagliflozin",
     packagingSize: "10 x 10",
-    description: "25mg Jardiance Empagliflozin Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols."
+    description: "25mg Jardiance Empagliflozin Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols.",
+    images: [
+      "/products/Pharmaceutical%20Tablets/25mg%20Jardiance%20Empagliflozin%20Tablets/25mg rx.jpeg"
+    ]
   },
   {
     id: "p-41",
     name: "125mg Prolavir LR Lopinavir Ritonavir Tablets",
     category: "pharmaceutical-tablets",
     strength: "125mg",
-    image: "/assets/cat_general.jpg",
+    image: "/products/Pharmaceutical%20Tablets/125mg%20Prolavir%20LR%20Lopinavir%20Ritonavir%20Tablets/prolavir 200mg 2pic.jpeg",
     brand: "Prolavir",
     packagingType: "Box/Strip",
     treatment: "Clinical Indication",
@@ -940,14 +947,18 @@ export const products = [
     form: "Tablet",
     composition: "LR Lopinavir Ritonavir",
     packagingSize: "10 x 10",
-    description: "125mg Prolavir LR Lopinavir Ritonavir Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols."
+    description: "125mg Prolavir LR Lopinavir Ritonavir Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols.",
+    images: [
+      "/products/Pharmaceutical%20Tablets/125mg%20Prolavir%20LR%20Lopinavir%20Ritonavir%20Tablets/prolavir 200mg 2pic.jpeg",
+      "/products/Pharmaceutical%20Tablets/125mg%20Prolavir%20LR%20Lopinavir%20Ritonavir%20Tablets/prolavir 200mg.jpeg"
+    ]
   },
   {
     id: "p-42",
     name: "250mg Prolavir LR Lopinavir Ritonavir Tablets",
     category: "pharmaceutical-tablets",
     strength: "250mg",
-    image: "/assets/cat_general.jpg",
+    image: "/products/Pharmaceutical%20Tablets/250mg%20Prolavir%20LR%20Lopinavir%20Ritonavir%20Tablets/prolavir 200mg 2pic.jpeg",
     brand: "Prolavir",
     packagingType: "Box/Strip",
     treatment: "Clinical Indication",
@@ -955,14 +966,18 @@ export const products = [
     form: "Tablet",
     composition: "LR Lopinavir Ritonavir",
     packagingSize: "10 x 10",
-    description: "250mg Prolavir LR Lopinavir Ritonavir Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols."
+    description: "250mg Prolavir LR Lopinavir Ritonavir Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols.",
+    images: [
+      "/products/Pharmaceutical%20Tablets/250mg%20Prolavir%20LR%20Lopinavir%20Ritonavir%20Tablets/prolavir 200mg 2pic.jpeg",
+      "/products/Pharmaceutical%20Tablets/250mg%20Prolavir%20LR%20Lopinavir%20Ritonavir%20Tablets/prolavir 200mg.jpeg"
+    ]
   },
   {
     id: "p-43",
     name: "250mg Paxista Nirmatrelvir Ritonavir Tablets",
     category: "pharmaceutical-tablets",
     strength: "250mg",
-    image: "/assets/cat_general.jpg",
+    image: "/products/Pharmaceutical%20Tablets/250mg%20Paxista%20Nirmatrelvir%20Ritonavir%20Tablets/paxista 100mg.jpeg",
     brand: "Paxista",
     packagingType: "Box/Strip",
     treatment: "Clinical Indication",
@@ -970,14 +985,18 @@ export const products = [
     form: "Tablet",
     composition: "Nirmatrelvir Ritonavir",
     packagingSize: "10 x 10",
-    description: "250mg Paxista Nirmatrelvir Ritonavir Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols."
+    description: "250mg Paxista Nirmatrelvir Ritonavir Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols.",
+    images: [
+      "/products/Pharmaceutical%20Tablets/250mg%20Paxista%20Nirmatrelvir%20Ritonavir%20Tablets/paxista 100mg.jpeg",
+      "/products/Pharmaceutical%20Tablets/250mg%20Paxista%20Nirmatrelvir%20Ritonavir%20Tablets/paxista 100mg2.jpeg"
+    ]
   },
   {
     id: "p-44",
     name: "50mg Instgra Dolutegravir Tablets",
     category: "pharmaceutical-tablets",
     strength: "50mg",
-    image: "/assets/cat_general.jpg",
+    image: "/products/Pharmaceutical%20Tablets/50mg%20Instgra%20Dolutegravir%20Tablets/instgra 50mg .jpeg",
     brand: "Instgra",
     packagingType: "Box/Strip",
     treatment: "Clinical Indication",
@@ -985,14 +1004,18 @@ export const products = [
     form: "Tablet",
     composition: "Dolutegravir",
     packagingSize: "10 x 10",
-    description: "50mg Instgra Dolutegravir Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols."
+    description: "50mg Instgra Dolutegravir Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols.",
+    images: [
+      "/products/Pharmaceutical%20Tablets/50mg%20Instgra%20Dolutegravir%20Tablets/instgra 50mg .jpeg",
+      "/products/Pharmaceutical%20Tablets/50mg%20Instgra%20Dolutegravir%20Tablets/instgram 50mg 2.jpeg"
+    ]
   },
   {
     id: "p-45",
     name: "650mg Cipanec Dolutegravir Lamivudine Tenofovir Disoproxil Fumarate Tablets",
     category: "pharmaceutical-tablets",
     strength: "650mg",
-    image: "/assets/cat_general.jpg",
+    image: "/products/Pharmaceutical%20Tablets/650mg%20Cipanec%20Dolutegravir%20Lamivudine%20Tenofovir%20Disoproxil%20Fumarate%20Tablets/650 tandolami.jpeg",
     brand: "Cipanec",
     packagingType: "Box/Strip",
     treatment: "Clinical Indication",
@@ -1000,14 +1023,17 @@ export const products = [
     form: "Tablet",
     composition: "Dolutegravir Lamivudine Tenofovir Disoproxil Fumarate",
     packagingSize: "10 x 10",
-    description: "650mg Cipanec Dolutegravir Lamivudine Tenofovir Disoproxil Fumarate Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols."
+    description: "650mg Cipanec Dolutegravir Lamivudine Tenofovir Disoproxil Fumarate Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols.",
+    images: [
+      "/products/Pharmaceutical%20Tablets/650mg%20Cipanec%20Dolutegravir%20Lamivudine%20Tenofovir%20Disoproxil%20Fumarate%20Tablets/650 tandolami.jpeg"
+    ]
   },
   {
     id: "p-46",
     name: "650mg Trilavir D Dolutegravir Lamivudine Tenofovir Disoproxil Fumarate Tablets",
     category: "pharmaceutical-tablets",
     strength: "650mg",
-    image: "/assets/cat_general.jpg",
+    image: "/products/Pharmaceutical%20Tablets/650mg%20Trilavir%20D%20Dolutegravir%20Lamivudine%20Tenofovir%20Disoproxil%20Fumarate%20Tablets/talivar 650mg.jpeg",
     brand: "Trilavir",
     packagingType: "Box/Strip",
     treatment: "Clinical Indication",
@@ -1015,14 +1041,18 @@ export const products = [
     form: "Tablet",
     composition: "D Dolutegravir Lamivudine Tenofovir Disoproxil Fumarate",
     packagingSize: "10 x 10",
-    description: "650mg Trilavir D Dolutegravir Lamivudine Tenofovir Disoproxil Fumarate Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols."
+    description: "650mg Trilavir D Dolutegravir Lamivudine Tenofovir Disoproxil Fumarate Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols.",
+    images: [
+      "/products/Pharmaceutical%20Tablets/650mg%20Trilavir%20D%20Dolutegravir%20Lamivudine%20Tenofovir%20Disoproxil%20Fumarate%20Tablets/talivar 650mg.jpeg",
+      "/products/Pharmaceutical%20Tablets/650mg%20Trilavir%20D%20Dolutegravir%20Lamivudine%20Tenofovir%20Disoproxil%20Fumarate%20Tablets/trivalr 650mg.jpeg"
+    ]
   },
   {
     id: "p-47",
     name: "650mg Xapavir LT Dolutegravir Lamivudine Tenofovir Disoproxil Fumarate Tablets",
     category: "pharmaceutical-tablets",
     strength: "650mg",
-    image: "/assets/cat_general.jpg",
+    image: "/products/Pharmaceutical%20Tablets/650mg%20Xapavir%20LT%20Dolutegravir%20Lamivudine%20Tenofovir%20Disoproxil%20Fumarate%20Tablets/xapaavir 650mg 2.jpeg",
     brand: "Xapavir",
     packagingType: "Box/Strip",
     treatment: "Clinical Indication",
@@ -1030,14 +1060,18 @@ export const products = [
     form: "Tablet",
     composition: "LT Dolutegravir Lamivudine Tenofovir Disoproxil Fumarate",
     packagingSize: "10 x 10",
-    description: "650mg Xapavir LT Dolutegravir Lamivudine Tenofovir Disoproxil Fumarate Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols."
+    description: "650mg Xapavir LT Dolutegravir Lamivudine Tenofovir Disoproxil Fumarate Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols.",
+    images: [
+      "/products/Pharmaceutical%20Tablets/650mg%20Xapavir%20LT%20Dolutegravir%20Lamivudine%20Tenofovir%20Disoproxil%20Fumarate%20Tablets/xapaavir 650mg 2.jpeg",
+      "/products/Pharmaceutical%20Tablets/650mg%20Xapavir%20LT%20Dolutegravir%20Lamivudine%20Tenofovir%20Disoproxil%20Fumarate%20Tablets/xapavir 650mg.jpeg"
+    ]
   },
   {
     id: "p-48",
     name: "650mg Acriptega Dolutegravir Lamivudine Tenofovir Disoproxil Fumarate Tablets",
     category: "pharmaceutical-tablets",
     strength: "650mg",
-    image: "/assets/cat_general.jpg",
+    image: "/products/Pharmaceutical%20Tablets/650mg%20Acriptega%20Dolutegravir%20Lamivudine%20Tenofovir%20Disoproxil%20Fumarate%20Tablets/650mg 2.jpeg",
     brand: "Acriptega",
     packagingType: "Box/Strip",
     treatment: "Clinical Indication",
@@ -1045,7 +1079,11 @@ export const products = [
     form: "Tablet",
     composition: "Dolutegravir Lamivudine Tenofovir Disoproxil Fumarate",
     packagingSize: "10 x 10",
-    description: "650mg Acriptega Dolutegravir Lamivudine Tenofovir Disoproxil Fumarate Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols."
+    description: "650mg Acriptega Dolutegravir Lamivudine Tenofovir Disoproxil Fumarate Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols.",
+    images: [
+      "/products/Pharmaceutical%20Tablets/650mg%20Acriptega%20Dolutegravir%20Lamivudine%20Tenofovir%20Disoproxil%20Fumarate%20Tablets/650mg 2.jpeg",
+      "/products/Pharmaceutical%20Tablets/650mg%20Acriptega%20Dolutegravir%20Lamivudine%20Tenofovir%20Disoproxil%20Fumarate%20Tablets/650mg mylan.jpeg"
+    ]
   },
   {
     id: "p-49",
@@ -1067,7 +1105,7 @@ export const products = [
     name: "400mg Ralmac Raltegravir Tablets",
     category: "pharmaceutical-tablets",
     strength: "400mg",
-    image: "/assets/cat_general.jpg",
+    image: "/products/Pharmaceutical%20Tablets/400mg%20Ralmac%20Raltegravir%20Tablets/4oomg ralmac.jpeg",
     brand: "Ralmac",
     packagingType: "Box/Strip",
     treatment: "Clinical Indication",
@@ -1075,14 +1113,18 @@ export const products = [
     form: "Tablet",
     composition: "Raltegravir",
     packagingSize: "10 x 10",
-    description: "400mg Ralmac Raltegravir Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols."
+    description: "400mg Ralmac Raltegravir Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols.",
+    images: [
+      "/products/Pharmaceutical%20Tablets/400mg%20Ralmac%20Raltegravir%20Tablets/4oomg ralmac.jpeg",
+      "/products/Pharmaceutical%20Tablets/400mg%20Ralmac%20Raltegravir%20Tablets/ralmac 400.jpeg"
+    ]
   },
   {
     id: "p-51",
     name: "650mg Penlactic Amoxicillin Potassium Clavulanate Tablets",
     category: "pharmaceutical-tablets",
     strength: "650mg",
-    image: "/assets/cat_general.jpg",
+    image: "/products/Pharmaceutical%20Tablets/650mg%20Penlactic%20Amoxicillin%20Potassium%20Clavulanate%20Tablets/625mg.jpeg",
     brand: "Penlactic",
     packagingType: "Box/Strip",
     treatment: "Clinical Indication",
@@ -1090,14 +1132,18 @@ export const products = [
     form: "Tablet",
     composition: "Amoxicillin Potassium Clavulanate",
     packagingSize: "10 x 10",
-    description: "650mg Penlactic Amoxicillin Potassium Clavulanate Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols."
+    description: "650mg Penlactic Amoxicillin Potassium Clavulanate Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols.",
+    images: [
+      "/products/Pharmaceutical%20Tablets/650mg%20Penlactic%20Amoxicillin%20Potassium%20Clavulanate%20Tablets/625mg.jpeg",
+      "/products/Pharmaceutical%20Tablets/650mg%20Penlactic%20Amoxicillin%20Potassium%20Clavulanate%20Tablets/moxinclaw 650mg.jpeg"
+    ]
   },
   {
     id: "p-52",
     name: "35mg Conshe Cyproterone Acetate Ethinylestradiol Tablets",
     category: "pharmaceutical-tablets",
     strength: "35mg",
-    image: "/assets/cat_general.jpg",
+    image: "/products/Pharmaceutical%20Tablets/35mg%20Conshe%20Cyproterone%20Acetate%20Ethinylestradiol%20Tablets/35 cy.jpeg",
     brand: "Conshe",
     packagingType: "Box/Strip",
     treatment: "Clinical Indication",
@@ -1105,14 +1151,18 @@ export const products = [
     form: "Tablet",
     composition: "Cyproterone Acetate Ethinylestradiol",
     packagingSize: "10 x 10",
-    description: "35mg Conshe Cyproterone Acetate Ethinylestradiol Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols."
+    description: "35mg Conshe Cyproterone Acetate Ethinylestradiol Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols.",
+    images: [
+      "/products/Pharmaceutical%20Tablets/35mg%20Conshe%20Cyproterone%20Acetate%20Ethinylestradiol%20Tablets/35 cy.jpeg",
+      "/products/Pharmaceutical%20Tablets/35mg%20Conshe%20Cyproterone%20Acetate%20Ethinylestradiol%20Tablets/conshe 35.jpeg"
+    ]
   },
   {
     id: "p-53",
     name: "25mcg T 3 Liothyronine Sodium Tablets",
     category: "pharmaceutical-tablets",
     strength: "25mcg",
-    image: "/assets/cat_general.jpg",
+    image: "/products/Pharmaceutical%20Tablets/25mcg%20T%203%20Liothyronine%20Sodium%20Tablets/t3 cytomel 1.jpeg",
     brand: "T",
     packagingType: "Box/Strip",
     treatment: "Clinical Indication",
@@ -1120,7 +1170,10 @@ export const products = [
     form: "Tablet",
     composition: "3 Liothyronine Sodium",
     packagingSize: "10 x 10",
-    description: "25mcg T 3 Liothyronine Sodium Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols."
+    description: "25mcg T 3 Liothyronine Sodium Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols.",
+    images: [
+      "/products/Pharmaceutical%20Tablets/25mcg%20T%203%20Liothyronine%20Sodium%20Tablets/t3 cytomel 1.jpeg"
+    ]
   },
   {
     id: "p-54",
@@ -1147,7 +1200,7 @@ export const products = [
     name: "50mg Oxythol Oxymetholone Tablets",
     category: "pharmaceutical-tablets",
     strength: "50mg",
-    image: "/assets/cat_general.jpg",
+    image: "/products/Pharmaceutical%20Tablets/50mg%20Oxythol%20Oxymetholone%20Tablets/oxythol 50mg 2.jpeg",
     brand: "Oxythol",
     packagingType: "Box/Strip",
     treatment: "Clinical Indication",
@@ -1155,14 +1208,18 @@ export const products = [
     form: "Tablet",
     composition: "Oxymetholone",
     packagingSize: "10 x 10",
-    description: "50mg Oxythol Oxymetholone Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols."
+    description: "50mg Oxythol Oxymetholone Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols.",
+    images: [
+      "/products/Pharmaceutical%20Tablets/50mg%20Oxythol%20Oxymetholone%20Tablets/oxythol 50mg 2.jpeg",
+      "/products/Pharmaceutical%20Tablets/50mg%20Oxythol%20Oxymetholone%20Tablets/oxythol 50mg.jpeg"
+    ]
   },
   {
     id: "p-56",
     name: "10mg Stazol Stanozolol Tablets",
     category: "pharmaceutical-tablets",
     strength: "10mg",
-    image: "/products/Pharmaceutical%20Tablets/10mg%20Stazol%20Stanozolol%20Tablets/WhatsApp Image 2026-08-18 at 4.48.52 PM.jpeg",
+    image: "/products/Pharmaceutical%20Tablets/10mg%20Stazol%20Stanozolol%20Tablets/10mg stazol.jpeg",
     brand: "Stazol",
     packagingType: "Box/Strip",
     treatment: "Clinical Indication",
@@ -1172,6 +1229,7 @@ export const products = [
     packagingSize: "10 x 10",
     description: "10mg Stazol Stanozolol Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols.",
     images: [
+      "/products/Pharmaceutical%20Tablets/10mg%20Stazol%20Stanozolol%20Tablets/10mg stazol.jpeg",
       "/products/Pharmaceutical%20Tablets/10mg%20Stazol%20Stanozolol%20Tablets/WhatsApp Image 2026-08-18 at 4.48.52 PM.jpeg"
     ]
   },
@@ -1180,7 +1238,7 @@ export const products = [
     name: "40mcg Clenbut Clenbuterol HCL Tablets",
     category: "pharmaceutical-tablets",
     strength: "40mcg",
-    image: "/assets/cat_general.jpg",
+    image: "/products/Pharmaceutical%20Tablets/40mcg%20Clenbut%20Clenbuterol%20HCL%20Tablets/clenbut 40 2.jpeg",
     brand: "Clenbut",
     packagingType: "Box/Strip",
     treatment: "Clinical Indication",
@@ -1188,14 +1246,18 @@ export const products = [
     form: "Tablet",
     composition: "Clenbuterol HCL",
     packagingSize: "10 x 10",
-    description: "40mcg Clenbut Clenbuterol HCL Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols."
+    description: "40mcg Clenbut Clenbuterol HCL Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols.",
+    images: [
+      "/products/Pharmaceutical%20Tablets/40mcg%20Clenbut%20Clenbuterol%20HCL%20Tablets/clenbut 40 2.jpeg",
+      "/products/Pharmaceutical%20Tablets/40mcg%20Clenbut%20Clenbuterol%20HCL%20Tablets/clenbut 40.jpeg"
+    ]
   },
   {
     id: "p-58",
     name: "50mg Androl Oxymetholone Tablets",
     category: "pharmaceutical-tablets",
     strength: "50mg",
-    image: "/assets/cat_general.jpg",
+    image: "/products/Pharmaceutical%20Tablets/50mg%20Androl%20Oxymetholone%20Tablets/50mg androl.jpeg",
     brand: "Androl",
     packagingType: "Box/Strip",
     treatment: "Clinical Indication",
@@ -1203,14 +1265,18 @@ export const products = [
     form: "Tablet",
     composition: "Oxymetholone",
     packagingSize: "10 x 10",
-    description: "50mg Androl Oxymetholone Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols."
+    description: "50mg Androl Oxymetholone Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols.",
+    images: [
+      "/products/Pharmaceutical%20Tablets/50mg%20Androl%20Oxymetholone%20Tablets/50mg androl.jpeg",
+      "/products/Pharmaceutical%20Tablets/50mg%20Androl%20Oxymetholone%20Tablets/androl 50mg.jpeg"
+    ]
   },
   {
     id: "p-59",
     name: "Himalaya Speman Tablet",
     category: "himalaya-herbal",
     strength: "As prescribed",
-    image: "/assets/cat_general.jpg",
+    image: "/products/Himalaya%20Herbal%20Capsules%20%26%20Tablets/Himalaya%20Speman%20Tablet/himalaya-speman-tablet-500x500-1.jpeg",
     brand: "Himalaya",
     packagingType: "Box/Strip",
     treatment: "Clinical Indication",
@@ -1218,14 +1284,19 @@ export const products = [
     form: "Tablet",
     composition: "Speman",
     packagingSize: "10 x 10",
-    description: "Himalaya Speman Tablet is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols."
+    description: "Himalaya Speman Tablet is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols.",
+    images: [
+      "/products/Himalaya%20Herbal%20Capsules%20%26%20Tablets/Himalaya%20Speman%20Tablet/himalaya-speman-tablet-500x500-1.jpeg",
+      "/products/Himalaya%20Herbal%20Capsules%20%26%20Tablets/Himalaya%20Speman%20Tablet/himalaya-speman-tablet-500x500-2.jpeg",
+      "/products/Himalaya%20Herbal%20Capsules%20%26%20Tablets/Himalaya%20Speman%20Tablet/himalaya-speman-tablet-500x500.jpeg"
+    ]
   },
   {
     id: "p-60",
     name: "Himalaya Triphala Bowel Wellness Tablets",
     category: "himalaya-herbal",
     strength: "As prescribed",
-    image: "/assets/cat_general.jpg",
+    image: "/products/Himalaya%20Herbal%20Capsules%20%26%20Tablets/Himalaya%20Triphala%20Bowel%20Wellness%20Tablets/himalaya-triphala-bowel-wellness-tablets-500x500-1.jpeg",
     brand: "Himalaya",
     packagingType: "Box/Strip",
     treatment: "Clinical Indication",
@@ -1233,14 +1304,19 @@ export const products = [
     form: "Tablet",
     composition: "Triphala Bowel Wellness",
     packagingSize: "10 x 10",
-    description: "Himalaya Triphala Bowel Wellness Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols."
+    description: "Himalaya Triphala Bowel Wellness Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols.",
+    images: [
+      "/products/Himalaya%20Herbal%20Capsules%20%26%20Tablets/Himalaya%20Triphala%20Bowel%20Wellness%20Tablets/himalaya-triphala-bowel-wellness-tablets-500x500-1.jpeg",
+      "/products/Himalaya%20Herbal%20Capsules%20%26%20Tablets/Himalaya%20Triphala%20Bowel%20Wellness%20Tablets/himalaya-triphala-bowel-wellness-tablets-500x500-2.jpeg",
+      "/products/Himalaya%20Herbal%20Capsules%20%26%20Tablets/Himalaya%20Triphala%20Bowel%20Wellness%20Tablets/himalaya-triphala-bowel-wellness-tablets-500x500.jpeg"
+    ]
   },
   {
     id: "p-61",
     name: "Himalaya Party Smart Capsules",
     category: "himalaya-herbal",
     strength: "As prescribed",
-    image: "/assets/cat_general.jpg",
+    image: "/products/Himalaya%20Herbal%20Capsules%20%26%20Tablets/Himalaya%20Party%20Smart%20Capsules/himalaya-party-smart-capsules-500x500-1.jpeg",
     brand: "Himalaya",
     packagingType: "Box/Strip",
     treatment: "Clinical Indication",
@@ -1248,14 +1324,19 @@ export const products = [
     form: "Capsule",
     composition: "Party Smart",
     packagingSize: "10 x 10",
-    description: "Himalaya Party Smart Capsules is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this capsule is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols."
+    description: "Himalaya Party Smart Capsules is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this capsule is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols.",
+    images: [
+      "/products/Himalaya%20Herbal%20Capsules%20%26%20Tablets/Himalaya%20Party%20Smart%20Capsules/himalaya-party-smart-capsules-500x500-1.jpeg",
+      "/products/Himalaya%20Herbal%20Capsules%20%26%20Tablets/Himalaya%20Party%20Smart%20Capsules/himalaya-party-smart-capsules-500x500.jpeg",
+      "/products/Himalaya%20Herbal%20Capsules%20%26%20Tablets/Himalaya%20Party%20Smart%20Capsules/himalaya-party-smart-capsules-500x500.jpg"
+    ]
   },
   {
     id: "p-62",
     name: "Himalaya Tentex Royal Capsules",
     category: "himalaya-herbal",
     strength: "As prescribed",
-    image: "/assets/cat_general.jpg",
+    image: "/products/Himalaya%20Herbal%20Capsules%20%26%20Tablets/Himalaya%20Tentex%20Royal%20Capsules/himalaya-tentex-royal-capsules-500x500-1.png",
     brand: "Himalaya",
     packagingType: "Box/Strip",
     treatment: "Clinical Indication",
@@ -1263,14 +1344,19 @@ export const products = [
     form: "Capsule",
     composition: "Tentex Royal",
     packagingSize: "10 x 10",
-    description: "Himalaya Tentex Royal Capsules is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this capsule is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols."
+    description: "Himalaya Tentex Royal Capsules is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this capsule is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols.",
+    images: [
+      "/products/Himalaya%20Herbal%20Capsules%20%26%20Tablets/Himalaya%20Tentex%20Royal%20Capsules/himalaya-tentex-royal-capsules-500x500-1.png",
+      "/products/Himalaya%20Herbal%20Capsules%20%26%20Tablets/Himalaya%20Tentex%20Royal%20Capsules/himalaya-tentex-royal-capsules-500x500.jpeg",
+      "/products/Himalaya%20Herbal%20Capsules%20%26%20Tablets/Himalaya%20Tentex%20Royal%20Capsules/himalaya-tentex-royal-capsules-500x500.png"
+    ]
   },
   {
     id: "p-63",
     name: "Himalaya Tagara Sleep Wellness Tablets",
     category: "himalaya-herbal",
     strength: "As prescribed",
-    image: "/assets/cat_general.jpg",
+    image: "/products/Himalaya%20Herbal%20Capsules%20%26%20Tablets/Himalaya%20Tagara%20Sleep%20Wellness%20Tablets/himalaya-tagara-sleep-wellness-tablets-500x500-1.jpeg",
     brand: "Himalaya",
     packagingType: "Box/Strip",
     treatment: "Clinical Indication",
@@ -1278,14 +1364,19 @@ export const products = [
     form: "Tablet",
     composition: "Tagara Sleep Wellness",
     packagingSize: "10 x 10",
-    description: "Himalaya Tagara Sleep Wellness Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols."
+    description: "Himalaya Tagara Sleep Wellness Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols.",
+    images: [
+      "/products/Himalaya%20Herbal%20Capsules%20%26%20Tablets/Himalaya%20Tagara%20Sleep%20Wellness%20Tablets/himalaya-tagara-sleep-wellness-tablets-500x500-1.jpeg",
+      "/products/Himalaya%20Herbal%20Capsules%20%26%20Tablets/Himalaya%20Tagara%20Sleep%20Wellness%20Tablets/himalaya-tagara-sleep-wellness-tablets-500x500-2.jpeg",
+      "/products/Himalaya%20Herbal%20Capsules%20%26%20Tablets/Himalaya%20Tagara%20Sleep%20Wellness%20Tablets/himalaya-tagara-sleep-wellness-tablets-500x500.jpeg"
+    ]
   },
   {
     id: "p-64",
     name: "Himalaya Brahmi Mind Wellness Tablet",
     category: "himalaya-herbal",
     strength: "As prescribed",
-    image: "/assets/cat_general.jpg",
+    image: "/products/Himalaya%20Herbal%20Capsules%20%26%20Tablets/Himalaya%20Brahmi%20Mind%20Wellness%20Tablet/himalaya-brahmi-mind-wellness-tablet-500x500-1.jpg",
     brand: "Himalaya",
     packagingType: "Box/Strip",
     treatment: "Clinical Indication",
@@ -1293,14 +1384,19 @@ export const products = [
     form: "Tablet",
     composition: "Brahmi Mind Wellness",
     packagingSize: "10 x 10",
-    description: "Himalaya Brahmi Mind Wellness Tablet is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols."
+    description: "Himalaya Brahmi Mind Wellness Tablet is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols.",
+    images: [
+      "/products/Himalaya%20Herbal%20Capsules%20%26%20Tablets/Himalaya%20Brahmi%20Mind%20Wellness%20Tablet/himalaya-brahmi-mind-wellness-tablet-500x500-1.jpg",
+      "/products/Himalaya%20Herbal%20Capsules%20%26%20Tablets/Himalaya%20Brahmi%20Mind%20Wellness%20Tablet/himalaya-brahmi-mind-wellness-tablet-500x500-2.jpg",
+      "/products/Himalaya%20Herbal%20Capsules%20%26%20Tablets/Himalaya%20Brahmi%20Mind%20Wellness%20Tablet/himalaya-brahmi-mind-wellness-tablet-500x500.jpg"
+    ]
   },
   {
     id: "p-65",
     name: "Himalaya Shatavari Women Wellness Tablets",
     category: "himalaya-herbal",
     strength: "As prescribed",
-    image: "/assets/cat_general.jpg",
+    image: "/products/Himalaya%20Herbal%20Capsules%20%26%20Tablets/Himalaya%20Shatavari%20Women%20Wellness%20Tablets/himalaya-shatavari-women-wellness-tablets-500x500-1.jpeg",
     brand: "Himalaya",
     packagingType: "Box/Strip",
     treatment: "Clinical Indication",
@@ -1308,14 +1404,19 @@ export const products = [
     form: "Tablet",
     composition: "Shatavari Women Wellness",
     packagingSize: "10 x 10",
-    description: "Himalaya Shatavari Women Wellness Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols."
+    description: "Himalaya Shatavari Women Wellness Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols.",
+    images: [
+      "/products/Himalaya%20Herbal%20Capsules%20%26%20Tablets/Himalaya%20Shatavari%20Women%20Wellness%20Tablets/himalaya-shatavari-women-wellness-tablets-500x500-1.jpeg",
+      "/products/Himalaya%20Herbal%20Capsules%20%26%20Tablets/Himalaya%20Shatavari%20Women%20Wellness%20Tablets/himalaya-shatavari-women-wellness-tablets-500x500-2.jpeg",
+      "/products/Himalaya%20Herbal%20Capsules%20%26%20Tablets/Himalaya%20Shatavari%20Women%20Wellness%20Tablets/himalaya-shatavari-women-wellness-tablets-500x500.jpeg"
+    ]
   },
   {
     id: "p-66",
     name: "Himalaya Yashtimadhu Gastric Wellness Tablets",
     category: "himalaya-herbal",
     strength: "As prescribed",
-    image: "/assets/cat_general.jpg",
+    image: "/products/Himalaya%20Herbal%20Capsules%20%26%20Tablets/Himalaya%20Yashtimadhu%20Gastric%20Wellness%20Tablets/himalaya-yashtimadhu-gastric-wellness-tablets-500x500-1.jpeg",
     brand: "Himalaya",
     packagingType: "Box/Strip",
     treatment: "Clinical Indication",
@@ -1323,14 +1424,19 @@ export const products = [
     form: "Tablet",
     composition: "Yashtimadhu Gastric Wellness",
     packagingSize: "10 x 10",
-    description: "Himalaya Yashtimadhu Gastric Wellness Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols."
+    description: "Himalaya Yashtimadhu Gastric Wellness Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols.",
+    images: [
+      "/products/Himalaya%20Herbal%20Capsules%20%26%20Tablets/Himalaya%20Yashtimadhu%20Gastric%20Wellness%20Tablets/himalaya-yashtimadhu-gastric-wellness-tablets-500x500-1.jpeg",
+      "/products/Himalaya%20Herbal%20Capsules%20%26%20Tablets/Himalaya%20Yashtimadhu%20Gastric%20Wellness%20Tablets/himalaya-yashtimadhu-gastric-wellness-tablets-500x500-2.jpeg",
+      "/products/Himalaya%20Herbal%20Capsules%20%26%20Tablets/Himalaya%20Yashtimadhu%20Gastric%20Wellness%20Tablets/himalaya-yashtimadhu-gastric-wellness-tablets-500x500.jpeg"
+    ]
   },
   {
     id: "p-67",
     name: "Himalaya Liv 52 Tablets",
     category: "himalaya-herbal",
     strength: "As prescribed",
-    image: "/assets/cat_general.jpg",
+    image: "/products/Himalaya%20Herbal%20Capsules%20%26%20Tablets/Himalaya%20Liv%2052%20Tablets/himalaya-liv-52-tablets-500x500-1.jpeg",
     brand: "Himalaya",
     packagingType: "Box/Strip",
     treatment: "Clinical Indication",
@@ -1338,14 +1444,19 @@ export const products = [
     form: "Tablet",
     composition: "Liv 52",
     packagingSize: "10 x 10",
-    description: "Himalaya Liv 52 Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols."
+    description: "Himalaya Liv 52 Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols.",
+    images: [
+      "/products/Himalaya%20Herbal%20Capsules%20%26%20Tablets/Himalaya%20Liv%2052%20Tablets/himalaya-liv-52-tablets-500x500-1.jpeg",
+      "/products/Himalaya%20Herbal%20Capsules%20%26%20Tablets/Himalaya%20Liv%2052%20Tablets/himalaya-liv-52-tablets-500x500-2.jpeg",
+      "/products/Himalaya%20Herbal%20Capsules%20%26%20Tablets/Himalaya%20Liv%2052%20Tablets/himalaya-liv-52-tablets-500x500.jpeg"
+    ]
   },
   {
     id: "p-68",
     name: "Himalaya Karela Metabolic Wellness Tablets",
     category: "himalaya-herbal",
     strength: "As prescribed",
-    image: "/assets/cat_general.jpg",
+    image: "/products/Himalaya%20Herbal%20Capsules%20%26%20Tablets/Himalaya%20Karela%20Metabolic%20Wellness%20Tablets/himalaya-karela-metabolic-wellness-tablets-500x500-1.jpg",
     brand: "Himalaya",
     packagingType: "Box/Strip",
     treatment: "Clinical Indication",
@@ -1353,14 +1464,19 @@ export const products = [
     form: "Tablet",
     composition: "Karela Metabolic Wellness",
     packagingSize: "10 x 10",
-    description: "Himalaya Karela Metabolic Wellness Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols."
+    description: "Himalaya Karela Metabolic Wellness Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols.",
+    images: [
+      "/products/Himalaya%20Herbal%20Capsules%20%26%20Tablets/Himalaya%20Karela%20Metabolic%20Wellness%20Tablets/himalaya-karela-metabolic-wellness-tablets-500x500-1.jpg",
+      "/products/Himalaya%20Herbal%20Capsules%20%26%20Tablets/Himalaya%20Karela%20Metabolic%20Wellness%20Tablets/himalaya-karela-metabolic-wellness-tablets-500x500-2.jpg",
+      "/products/Himalaya%20Herbal%20Capsules%20%26%20Tablets/Himalaya%20Karela%20Metabolic%20Wellness%20Tablets/himalaya-karela-metabolic-wellness-tablets-500x500.jpg"
+    ]
   },
   {
     id: "p-69",
     name: "Himalaya Ashvagandha General Wellness Tablets",
     category: "himalaya-herbal",
     strength: "As prescribed",
-    image: "/assets/cat_general.jpg",
+    image: "/products/Himalaya%20Herbal%20Capsules%20%26%20Tablets/Himalaya%20Ashvagandha%20General%20Wellness%20Tablets/himalaya-ashvagandha-general-wellness-tablets-500x500-1.jpeg",
     brand: "Himalaya",
     packagingType: "Box/Strip",
     treatment: "Clinical Indication",
@@ -1368,14 +1484,19 @@ export const products = [
     form: "Tablet",
     composition: "Ashvagandha General Wellness",
     packagingSize: "10 x 10",
-    description: "Himalaya Ashvagandha General Wellness Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols."
+    description: "Himalaya Ashvagandha General Wellness Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols.",
+    images: [
+      "/products/Himalaya%20Herbal%20Capsules%20%26%20Tablets/Himalaya%20Ashvagandha%20General%20Wellness%20Tablets/himalaya-ashvagandha-general-wellness-tablets-500x500-1.jpeg",
+      "/products/Himalaya%20Herbal%20Capsules%20%26%20Tablets/Himalaya%20Ashvagandha%20General%20Wellness%20Tablets/himalaya-ashvagandha-general-wellness-tablets-500x500-2.jpeg",
+      "/products/Himalaya%20Herbal%20Capsules%20%26%20Tablets/Himalaya%20Ashvagandha%20General%20Wellness%20Tablets/himalaya-ashvagandha-general-wellness-tablets-500x500.jpeg"
+    ]
   },
   {
     id: "p-70",
     name: "Himalaya Cystone Tablet",
     category: "himalaya-herbal",
     strength: "As prescribed",
-    image: "/assets/cat_general.jpg",
+    image: "/products/Himalaya%20Herbal%20Capsules%20%26%20Tablets/Himalaya%20Cystone%20Tablet/himalaya-cystone-tablet-500x500-1.jpeg",
     brand: "Himalaya",
     packagingType: "Box/Strip",
     treatment: "Clinical Indication",
@@ -1383,14 +1504,18 @@ export const products = [
     form: "Tablet",
     composition: "Cystone",
     packagingSize: "10 x 10",
-    description: "Himalaya Cystone Tablet is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols."
+    description: "Himalaya Cystone Tablet is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols.",
+    images: [
+      "/products/Himalaya%20Herbal%20Capsules%20%26%20Tablets/Himalaya%20Cystone%20Tablet/himalaya-cystone-tablet-500x500-1.jpeg",
+      "/products/Himalaya%20Herbal%20Capsules%20%26%20Tablets/Himalaya%20Cystone%20Tablet/himalaya-cystone-tablet-500x500.jpeg"
+    ]
   },
   {
     id: "p-71",
     name: "Himalaya Liv.52 DS Tablets",
     category: "himalaya-herbal",
     strength: "As prescribed",
-    image: "/assets/cat_general.jpg",
+    image: "/products/Himalaya%20Herbal%20Capsules%20%26%20Tablets/Himalaya%20Liv.52%20DS%20Tablets/himalaya-liv-52-ds-tablets-500x500-1.jpeg",
     brand: "Himalaya",
     packagingType: "Box/Strip",
     treatment: "Clinical Indication",
@@ -1398,14 +1523,19 @@ export const products = [
     form: "Tablet",
     composition: "Liv.52 DS",
     packagingSize: "10 x 10",
-    description: "Himalaya Liv.52 DS Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols."
+    description: "Himalaya Liv.52 DS Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols.",
+    images: [
+      "/products/Himalaya%20Herbal%20Capsules%20%26%20Tablets/Himalaya%20Liv.52%20DS%20Tablets/himalaya-liv-52-ds-tablets-500x500-1.jpeg",
+      "/products/Himalaya%20Herbal%20Capsules%20%26%20Tablets/Himalaya%20Liv.52%20DS%20Tablets/himalaya-liv-52-ds-tablets-500x500-2.jpeg",
+      "/products/Himalaya%20Herbal%20Capsules%20%26%20Tablets/Himalaya%20Liv.52%20DS%20Tablets/himalaya-liv-52-ds-tablets-500x500.jpeg"
+    ]
   },
   {
     id: "p-72",
     name: "20mg Vidalista Tadalafil Tablets",
     category: "tadalafil-tablets",
     strength: "20mg",
-    image: "/assets/cat_general.jpg",
+    image: "/products/Tadalafil%20Tablets/20mg%20Vidalista%20Tadalafil%20Tablets/20mg-vidalista-tadalafil-tablets-500x500-1.jpg",
     brand: "Vidalista",
     packagingType: "Box/Strip",
     treatment: "Clinical Indication",
@@ -1413,14 +1543,19 @@ export const products = [
     form: "Tablet",
     composition: "Tadalafil",
     packagingSize: "10 x 10",
-    description: "20mg Vidalista Tadalafil Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols."
+    description: "20mg Vidalista Tadalafil Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols.",
+    images: [
+      "/products/Tadalafil%20Tablets/20mg%20Vidalista%20Tadalafil%20Tablets/20mg-vidalista-tadalafil-tablets-500x500-1.jpg",
+      "/products/Tadalafil%20Tablets/20mg%20Vidalista%20Tadalafil%20Tablets/20mg-vidalista-tadalafil-tablets-500x500.jpeg",
+      "/products/Tadalafil%20Tablets/20mg%20Vidalista%20Tadalafil%20Tablets/20mg-vidalista-tadalafil-tablets-500x500.jpg"
+    ]
   },
   {
     id: "p-73",
     name: "20mg Vidalista Professional Tadalafil Sublingual Tablets",
     category: "tadalafil-tablets",
     strength: "20mg",
-    image: "/assets/cat_general.jpg",
+    image: "/products/Tadalafil%20Tablets/20mg%20Vidalista%20Professional%20Tadalafil%20Sublingual%20Tablets/20mg-vidalista-professional-tadalafil-sublingual-tablets-500x500.jpeg",
     brand: "Vidalista",
     packagingType: "Box/Strip",
     treatment: "Clinical Indication",
@@ -1428,14 +1563,18 @@ export const products = [
     form: "Tablet",
     composition: "Professional Tadalafil Sublingual",
     packagingSize: "10 x 10",
-    description: "20mg Vidalista Professional Tadalafil Sublingual Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols."
+    description: "20mg Vidalista Professional Tadalafil Sublingual Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols.",
+    images: [
+      "/products/Tadalafil%20Tablets/20mg%20Vidalista%20Professional%20Tadalafil%20Sublingual%20Tablets/20mg-vidalista-professional-tadalafil-sublingual-tablets-500x500.jpeg",
+      "/products/Tadalafil%20Tablets/20mg%20Vidalista%20Professional%20Tadalafil%20Sublingual%20Tablets/20mg-vidalista-professional-tadalafil-sublingual-tablets-500x500.jpg"
+    ]
   },
   {
     id: "p-74",
     name: "80mg Tadaga Power Tadalafil Tablets",
     category: "tadalafil-tablets",
     strength: "80mg",
-    image: "/assets/cat_general.jpg",
+    image: "/products/Tadalafil%20Tablets/80mg%20Tadaga%20Power%20Tadalafil%20Tablets/80mg-tadaga-power-tadalafil-tablets-500x500.jpeg",
     brand: "Tadaga",
     packagingType: "Box/Strip",
     treatment: "Clinical Indication",
@@ -1443,14 +1582,18 @@ export const products = [
     form: "Tablet",
     composition: "Power Tadalafil",
     packagingSize: "10 x 10",
-    description: "80mg Tadaga Power Tadalafil Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols."
+    description: "80mg Tadaga Power Tadalafil Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols.",
+    images: [
+      "/products/Tadalafil%20Tablets/80mg%20Tadaga%20Power%20Tadalafil%20Tablets/80mg-tadaga-power-tadalafil-tablets-500x500.jpeg",
+      "/products/Tadalafil%20Tablets/80mg%20Tadaga%20Power%20Tadalafil%20Tablets/tadalafil-tablets-500x500.jpg"
+    ]
   },
   {
     id: "p-75",
     name: "80mg Vidalista Black Tadalafil Tablets",
     category: "tadalafil-tablets",
     strength: "80mg",
-    image: "/assets/cat_general.jpg",
+    image: "/products/Tadalafil%20Tablets/80mg%20Vidalista%20Black%20Tadalafil%20Tablets/80mg-vidalista-black-tadalafil-tablets-500x500-1.jpeg",
     brand: "Vidalista",
     packagingType: "Box/Strip",
     treatment: "Clinical Indication",
@@ -1458,14 +1601,19 @@ export const products = [
     form: "Tablet",
     composition: "Black Tadalafil",
     packagingSize: "10 x 10",
-    description: "80mg Vidalista Black Tadalafil Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols."
+    description: "80mg Vidalista Black Tadalafil Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols.",
+    images: [
+      "/products/Tadalafil%20Tablets/80mg%20Vidalista%20Black%20Tadalafil%20Tablets/80mg-vidalista-black-tadalafil-tablets-500x500-1.jpeg",
+      "/products/Tadalafil%20Tablets/80mg%20Vidalista%20Black%20Tadalafil%20Tablets/80mg-vidalista-black-tadalafil-tablets-500x500.jpeg",
+      "/products/Tadalafil%20Tablets/80mg%20Vidalista%20Black%20Tadalafil%20Tablets/80mg-vidalista-black-tadalafil-tablets-500x500.jpg"
+    ]
   },
   {
     id: "p-76",
     name: "cialista 10mg Tablets",
     category: "tadalafil-tablets",
     strength: "10mg",
-    image: "/assets/cat_general.jpg",
+    image: "/products/Tadalafil%20Tablets/cialista%2010mg%20Tablets/cialista-10mg-tablets-500x500-1.jpeg",
     brand: "cialista",
     packagingType: "Box/Strip",
     treatment: "Clinical Indication",
@@ -1473,14 +1621,18 @@ export const products = [
     form: "Tablet",
     composition: "10mg",
     packagingSize: "10 x 10",
-    description: "cialista 10mg Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols."
+    description: "cialista 10mg Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols.",
+    images: [
+      "/products/Tadalafil%20Tablets/cialista%2010mg%20Tablets/cialista-10mg-tablets-500x500-1.jpeg",
+      "/products/Tadalafil%20Tablets/cialista%2010mg%20Tablets/cialista-10mg-tablets-500x500.jpeg"
+    ]
   },
   {
     id: "p-77",
     name: "Cialista 20mg tablets",
     category: "tadalafil-tablets",
     strength: "20mg",
-    image: "/assets/cat_general.jpg",
+    image: "/products/Tadalafil%20Tablets/Cialista%2020mg%20tablets/cialista-20mg-tablets-500x500-1.jpeg",
     brand: "Cialista",
     packagingType: "Box/Strip",
     treatment: "Clinical Indication",
@@ -1488,14 +1640,18 @@ export const products = [
     form: "Tablet",
     composition: "20mg",
     packagingSize: "10 x 10",
-    description: "Cialista 20mg tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols."
+    description: "Cialista 20mg tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols.",
+    images: [
+      "/products/Tadalafil%20Tablets/Cialista%2020mg%20tablets/cialista-20mg-tablets-500x500-1.jpeg",
+      "/products/Tadalafil%20Tablets/Cialista%2020mg%20tablets/cialista-20mg-tablets-500x500.jpeg"
+    ]
   },
   {
     id: "p-78",
     name: "Cialista 5mg Tablets",
     category: "tadalafil-tablets",
     strength: "5mg",
-    image: "/assets/cat_general.jpg",
+    image: "/products/Tadalafil%20Tablets/Cialista%205mg%20Tablets/cialista-5mg-tablets-500x500-1.jpeg",
     brand: "Cialista",
     packagingType: "Box/Strip",
     treatment: "Clinical Indication",
@@ -1503,14 +1659,18 @@ export const products = [
     form: "Tablet",
     composition: "5mg",
     packagingSize: "10 x 10",
-    description: "Cialista 5mg Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols."
+    description: "Cialista 5mg Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols.",
+    images: [
+      "/products/Tadalafil%20Tablets/Cialista%205mg%20Tablets/cialista-5mg-tablets-500x500-1.jpeg",
+      "/products/Tadalafil%20Tablets/Cialista%205mg%20Tablets/cialista-5mg-tablets-500x500.jpeg"
+    ]
   },
   {
     id: "p-79",
     name: "Cialista 40mg Tablets",
     category: "tadalafil-tablets",
     strength: "40mg",
-    image: "/assets/cat_general.jpg",
+    image: "/products/Tadalafil%20Tablets/Cialista%2040mg%20Tablets/cialista-40mg-tablets-500x500-1.jpeg",
     brand: "Cialista",
     packagingType: "Box/Strip",
     treatment: "Clinical Indication",
@@ -1518,14 +1678,20 @@ export const products = [
     form: "Tablet",
     composition: "40mg",
     packagingSize: "10 x 10",
-    description: "Cialista 40mg Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols."
+    description: "Cialista 40mg Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols.",
+    images: [
+      "/products/Tadalafil%20Tablets/Cialista%2040mg%20Tablets/cialista-40mg-tablets-500x500-1.jpeg",
+      "/products/Tadalafil%20Tablets/Cialista%2040mg%20Tablets/cialista-40mg-tablets-500x500-2.jpeg",
+      "/products/Tadalafil%20Tablets/Cialista%2040mg%20Tablets/cialista-40mg-tablets-500x500-3.jpeg",
+      "/products/Tadalafil%20Tablets/Cialista%2040mg%20Tablets/cialista-40mg-tablets-500x500.jpeg"
+    ]
   },
   {
     id: "p-80",
     name: "Cialista 60mg Tablets",
     category: "tadalafil-tablets",
     strength: "60mg",
-    image: "/assets/cat_general.jpg",
+    image: "/products/Tadalafil%20Tablets/Cialista%2060mg%20Tablets/cialista-60mg-tablets-500x500-1.jpeg",
     brand: "Cialista",
     packagingType: "Box/Strip",
     treatment: "Clinical Indication",
@@ -1533,7 +1699,11 @@ export const products = [
     form: "Tablet",
     composition: "60mg",
     packagingSize: "10 x 10",
-    description: "Cialista 60mg Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols."
+    description: "Cialista 60mg Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols.",
+    images: [
+      "/products/Tadalafil%20Tablets/Cialista%2060mg%20Tablets/cialista-60mg-tablets-500x500-1.jpeg",
+      "/products/Tadalafil%20Tablets/Cialista%2060mg%20Tablets/cialista-60mg-tablets-500x500.jpeg"
+    ]
   },
   {
     id: "p-81",
@@ -1555,7 +1725,7 @@ export const products = [
     name: "Super Tadapox Tadalafil Dapoxetine Tablets",
     category: "tadalafil-tablets",
     strength: "As prescribed",
-    image: "/assets/cat_general.jpg",
+    image: "/products/Tadalafil%20Tablets/Super%20Tadapox%20Tadalafil%20Dapoxetine%20Tablets/super-tadapox-tablets-500x500.jpeg",
     brand: "Super",
     packagingType: "Box/Strip",
     treatment: "Clinical Indication",
@@ -1563,14 +1733,19 @@ export const products = [
     form: "Tablet",
     composition: "Tadapox Tadalafil Dapoxetine",
     packagingSize: "10 x 10",
-    description: "Super Tadapox Tadalafil Dapoxetine Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols."
+    description: "Super Tadapox Tadalafil Dapoxetine Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols.",
+    images: [
+      "/products/Tadalafil%20Tablets/Super%20Tadapox%20Tadalafil%20Dapoxetine%20Tablets/super-tadapox-tablets-500x500.jpeg",
+      "/products/Tadalafil%20Tablets/Super%20Tadapox%20Tadalafil%20Dapoxetine%20Tablets/super-tadapox-tadalafil-dapoxetine-tablets-500x500-1.jpeg",
+      "/products/Tadalafil%20Tablets/Super%20Tadapox%20Tadalafil%20Dapoxetine%20Tablets/super-tadapox-tadalafil-dapoxetine-tablets-500x500.jpeg"
+    ]
   },
   {
     id: "p-83",
     name: "100mg Suhagra Sildenafil Citrate Tablets",
     category: "sildenafil-tablets",
     strength: "100mg",
-    image: "/assets/cat_general.jpg",
+    image: "/products/Sildenafil%20Tablets/100mg%20Suhagra%20Sildenafil%20Citrate%20Tablets/100mg-suhagra-sildenafil-citrate-tablets-500x500-1.jpg",
     brand: "Suhagra",
     packagingType: "Box/Strip",
     treatment: "Clinical Indication",
@@ -1578,14 +1753,19 @@ export const products = [
     form: "Tablet",
     composition: "Sildenafil Citrate",
     packagingSize: "10 x 10",
-    description: "100mg Suhagra Sildenafil Citrate Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols."
+    description: "100mg Suhagra Sildenafil Citrate Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols.",
+    images: [
+      "/products/Sildenafil%20Tablets/100mg%20Suhagra%20Sildenafil%20Citrate%20Tablets/100mg-suhagra-sildenafil-citrate-tablets-500x500-1.jpg",
+      "/products/Sildenafil%20Tablets/100mg%20Suhagra%20Sildenafil%20Citrate%20Tablets/100mg-suhagra-sildenafil-citrate-tablets-500x500.jpeg",
+      "/products/Sildenafil%20Tablets/100mg%20Suhagra%20Sildenafil%20Citrate%20Tablets/100mg-suhagra-sildenafil-citrate-tablets-500x500.jpg"
+    ]
   },
   {
     id: "p-84",
     name: "100mg Kamagra Sildenafil Citrate Chewable Tablets",
     category: "sildenafil-tablets",
     strength: "100mg",
-    image: "/assets/cat_general.jpg",
+    image: "/products/Sildenafil%20Tablets/100mg%20Kamagra%20Sildenafil%20Citrate%20Chewable%20Tablets/100mg-kamagra-sildenafil-citrate-chewable-tablets-500x500.jpg",
     brand: "Kamagra",
     packagingType: "Box/Strip",
     treatment: "Clinical Indication",
@@ -1593,14 +1773,20 @@ export const products = [
     form: "Tablet",
     composition: "Sildenafil Citrate Chewable",
     packagingSize: "10 x 10",
-    description: "100mg Kamagra Sildenafil Citrate Chewable Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols."
+    description: "100mg Kamagra Sildenafil Citrate Chewable Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols.",
+    images: [
+      "/products/Sildenafil%20Tablets/100mg%20Kamagra%20Sildenafil%20Citrate%20Chewable%20Tablets/100mg-kamagra-sildenafil-citrate-chewable-tablets-500x500.jpg",
+      "/products/Sildenafil%20Tablets/100mg%20Kamagra%20Sildenafil%20Citrate%20Chewable%20Tablets/100mg-sildenafil-citrate-chewable-tablets-500x500-1.jpg",
+      "/products/Sildenafil%20Tablets/100mg%20Kamagra%20Sildenafil%20Citrate%20Chewable%20Tablets/100mg-sildenafil-citrate-chewable-tablets-500x500.jpg",
+      "/products/Sildenafil%20Tablets/100mg%20Kamagra%20Sildenafil%20Citrate%20Chewable%20Tablets/100mg-sildenafil-citrate-tablets-500x500-1.jpg"
+    ]
   },
   {
     id: "p-85",
     name: "50mg Cenforce Sildenafil Citrate Tablets",
     category: "sildenafil-tablets",
     strength: "50mg",
-    image: "/assets/cat_general.jpg",
+    image: "/products/Sildenafil%20Tablets/50mg%20Cenforce%20Sildenafil%20Citrate%20Tablets/50mg-cenforce-sildenafil-tablet-500x500.jpg",
     brand: "Cenforce",
     packagingType: "Box/Strip",
     treatment: "Clinical Indication",
@@ -1608,14 +1794,19 @@ export const products = [
     form: "Tablet",
     composition: "Sildenafil Citrate",
     packagingSize: "10 x 10",
-    description: "50mg Cenforce Sildenafil Citrate Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols."
+    description: "50mg Cenforce Sildenafil Citrate Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols.",
+    images: [
+      "/products/Sildenafil%20Tablets/50mg%20Cenforce%20Sildenafil%20Citrate%20Tablets/50mg-cenforce-sildenafil-tablet-500x500.jpg",
+      "/products/Sildenafil%20Tablets/50mg%20Cenforce%20Sildenafil%20Citrate%20Tablets/50mg-sildenafil-citrate-tablet-500x500-1.jpg",
+      "/products/Sildenafil%20Tablets/50mg%20Cenforce%20Sildenafil%20Citrate%20Tablets/50mg-sildenafil-citrate-tablet-500x500.jpg"
+    ]
   },
   {
     id: "p-86",
     name: "100mg Kamagra Gold Sildenafil Citrate Tablets",
     category: "sildenafil-tablets",
     strength: "100mg",
-    image: "/assets/cat_general.jpg",
+    image: "/products/Sildenafil%20Tablets/100mg%20Kamagra%20Gold%20Sildenafil%20Citrate%20Tablets/100mg-kamagra-gold-sildenafil-citrate-tablets-500x500.jpeg",
     brand: "Kamagra",
     packagingType: "Box/Strip",
     treatment: "Clinical Indication",
@@ -1623,14 +1814,18 @@ export const products = [
     form: "Tablet",
     composition: "Gold Sildenafil Citrate",
     packagingSize: "10 x 10",
-    description: "100mg Kamagra Gold Sildenafil Citrate Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols."
+    description: "100mg Kamagra Gold Sildenafil Citrate Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols.",
+    images: [
+      "/products/Sildenafil%20Tablets/100mg%20Kamagra%20Gold%20Sildenafil%20Citrate%20Tablets/100mg-kamagra-gold-sildenafil-citrate-tablets-500x500.jpeg",
+      "/products/Sildenafil%20Tablets/100mg%20Kamagra%20Gold%20Sildenafil%20Citrate%20Tablets/100mg-sildenafil-citrate-tablets-500x500.jpg"
+    ]
   },
   {
     id: "p-87",
     name: "200mg Sildigra Gold Sildenafil Citrate Tablets",
     category: "sildenafil-tablets",
     strength: "200mg",
-    image: "/assets/cat_general.jpg",
+    image: "/products/Sildenafil%20Tablets/200mg%20Sildigra%20Gold%20Sildenafil%20Citrate%20Tablets/sildenafil-citrate-tablets-500x500-1.jpg",
     brand: "Sildigra",
     packagingType: "Box/Strip",
     treatment: "Clinical Indication",
@@ -1638,14 +1833,19 @@ export const products = [
     form: "Tablet",
     composition: "Gold Sildenafil Citrate",
     packagingSize: "10 x 10",
-    description: "200mg Sildigra Gold Sildenafil Citrate Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols."
+    description: "200mg Sildigra Gold Sildenafil Citrate Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols.",
+    images: [
+      "/products/Sildenafil%20Tablets/200mg%20Sildigra%20Gold%20Sildenafil%20Citrate%20Tablets/sildenafil-citrate-tablets-500x500-1.jpg",
+      "/products/Sildenafil%20Tablets/200mg%20Sildigra%20Gold%20Sildenafil%20Citrate%20Tablets/sildenafil-citrate-tablets-500x500.jpg",
+      "/products/Sildenafil%20Tablets/200mg%20Sildigra%20Gold%20Sildenafil%20Citrate%20Tablets/sildenafil-citrate-tablets-500x500.png"
+    ]
   },
   {
     id: "p-88",
     name: "100mg Cenforce Sildenafil Citrate Tablets",
     category: "sildenafil-tablets",
     strength: "100mg",
-    image: "/assets/cat_general.jpg",
+    image: "/products/Sildenafil%20Tablets/100mg%20Cenforce%20Sildenafil%20Citrate%20Tablets/100mg-cenforce-sildenafil-citrate-tablets-500x500-1.jpg",
     brand: "Cenforce",
     packagingType: "Box/Strip",
     treatment: "Clinical Indication",
@@ -1653,14 +1853,22 @@ export const products = [
     form: "Tablet",
     composition: "Sildenafil Citrate",
     packagingSize: "10 x 10",
-    description: "100mg Cenforce Sildenafil Citrate Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols."
+    description: "100mg Cenforce Sildenafil Citrate Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols.",
+    images: [
+      "/products/Sildenafil%20Tablets/100mg%20Cenforce%20Sildenafil%20Citrate%20Tablets/100mg-cenforce-sildenafil-citrate-tablets-500x500-1.jpg",
+      "/products/Sildenafil%20Tablets/100mg%20Cenforce%20Sildenafil%20Citrate%20Tablets/100mg-cenforce-sildenafil-citrate-tablets-500x500.jpg",
+      "/products/Sildenafil%20Tablets/100mg%20Cenforce%20Sildenafil%20Citrate%20Tablets/cenforce-100-mg-tablets-500x500.jpeg",
+      "/products/Sildenafil%20Tablets/100mg%20Cenforce%20Sildenafil%20Citrate%20Tablets/steroid-tablet-500x500-1.jpeg",
+      "/products/Sildenafil%20Tablets/100mg%20Cenforce%20Sildenafil%20Citrate%20Tablets/steroid-tablet-500x500-2.jpeg",
+      "/products/Sildenafil%20Tablets/100mg%20Cenforce%20Sildenafil%20Citrate%20Tablets/steroid-tablet-500x500.jpeg"
+    ]
   },
   {
     id: "p-89",
     name: "100mg Priforce Sildenafil Citrate Tablets",
     category: "sildenafil-tablets",
     strength: "100mg",
-    image: "/assets/cat_general.jpg",
+    image: "/products/Sildenafil%20Tablets/100mg%20Priforce%20Sildenafil%20Citrate%20Tablets/100mg-priforce-sildenafil-citrate-tablets-500x500-1.png",
     brand: "Priforce",
     packagingType: "Box/Strip",
     treatment: "Clinical Indication",
@@ -1668,14 +1876,19 @@ export const products = [
     form: "Tablet",
     composition: "Sildenafil Citrate",
     packagingSize: "10 x 10",
-    description: "100mg Priforce Sildenafil Citrate Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols."
+    description: "100mg Priforce Sildenafil Citrate Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols.",
+    images: [
+      "/products/Sildenafil%20Tablets/100mg%20Priforce%20Sildenafil%20Citrate%20Tablets/100mg-priforce-sildenafil-citrate-tablets-500x500-1.png",
+      "/products/Sildenafil%20Tablets/100mg%20Priforce%20Sildenafil%20Citrate%20Tablets/100mg-priforce-sildenafil-citrate-tablets-500x500-2.png",
+      "/products/Sildenafil%20Tablets/100mg%20Priforce%20Sildenafil%20Citrate%20Tablets/100mg-priforce-sildenafil-citrate-tablets-500x500.png"
+    ]
   },
   {
     id: "p-90",
     name: "200mg Cenforce Sildenafil Citrate Tablets",
     category: "sildenafil-tablets",
     strength: "200mg",
-    image: "/assets/cat_general.jpg",
+    image: "/products/Sildenafil%20Tablets/200mg%20Cenforce%20Sildenafil%20Citrate%20Tablets/200mg-cenforce-sildenafil-citrate-tablets-500x500-1.jpg",
     brand: "Cenforce",
     packagingType: "Box/Strip",
     treatment: "Clinical Indication",
@@ -1683,14 +1896,19 @@ export const products = [
     form: "Tablet",
     composition: "Sildenafil Citrate",
     packagingSize: "10 x 10",
-    description: "200mg Cenforce Sildenafil Citrate Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols."
+    description: "200mg Cenforce Sildenafil Citrate Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols.",
+    images: [
+      "/products/Sildenafil%20Tablets/200mg%20Cenforce%20Sildenafil%20Citrate%20Tablets/200mg-cenforce-sildenafil-citrate-tablets-500x500-1.jpg",
+      "/products/Sildenafil%20Tablets/200mg%20Cenforce%20Sildenafil%20Citrate%20Tablets/200mg-cenforce-sildenafil-citrate-tablets-500x500.jpg",
+      "/products/Sildenafil%20Tablets/200mg%20Cenforce%20Sildenafil%20Citrate%20Tablets/cenforce-200mg-500x500.jpg"
+    ]
   },
   {
     id: "p-91",
     name: "100mg Cenforce Sildenafil Citrate Tablets",
     category: "sildenafil-tablets",
     strength: "100mg",
-    image: "/assets/cat_general.jpg",
+    image: "/products/Sildenafil%20Tablets/100mg%20Cenforce%20Sildenafil%20Citrate%20Tablets/100mg-cenforce-sildenafil-citrate-tablets-500x500-1.jpg",
     brand: "Cenforce",
     packagingType: "Box/Strip",
     treatment: "Clinical Indication",
@@ -1698,14 +1916,22 @@ export const products = [
     form: "Tablet",
     composition: "Sildenafil Citrate",
     packagingSize: "10 x 10",
-    description: "100mg Cenforce Sildenafil Citrate Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols."
+    description: "100mg Cenforce Sildenafil Citrate Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols.",
+    images: [
+      "/products/Sildenafil%20Tablets/100mg%20Cenforce%20Sildenafil%20Citrate%20Tablets/100mg-cenforce-sildenafil-citrate-tablets-500x500-1.jpg",
+      "/products/Sildenafil%20Tablets/100mg%20Cenforce%20Sildenafil%20Citrate%20Tablets/100mg-cenforce-sildenafil-citrate-tablets-500x500.jpg",
+      "/products/Sildenafil%20Tablets/100mg%20Cenforce%20Sildenafil%20Citrate%20Tablets/cenforce-100-mg-tablets-500x500.jpeg",
+      "/products/Sildenafil%20Tablets/100mg%20Cenforce%20Sildenafil%20Citrate%20Tablets/steroid-tablet-500x500-1.jpeg",
+      "/products/Sildenafil%20Tablets/100mg%20Cenforce%20Sildenafil%20Citrate%20Tablets/steroid-tablet-500x500-2.jpeg",
+      "/products/Sildenafil%20Tablets/100mg%20Cenforce%20Sildenafil%20Citrate%20Tablets/steroid-tablet-500x500.jpeg"
+    ]
   },
   {
     id: "p-92",
     name: "250mg Teston Testosterone Enanthate Injection",
     category: "pharmaceutical-injection",
     strength: "250mg",
-    image: "/assets/cat_injection.jpg",
+    image: "/products/Pharmaceutical%20Injection/250mg%20Teston%20Testosterone%20Enanthate%20Injection/250mg-teston-testosterone-enanthate-injection-500x500.jpeg",
     brand: "Teston",
     packagingType: "Vial/Ampoule",
     treatment: "Clinical Indication",
@@ -1713,14 +1939,19 @@ export const products = [
     form: "Injection",
     composition: "Testosterone Enanthate",
     packagingSize: "1 Vial",
-    description: "250mg Teston Testosterone Enanthate Injection is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this injection is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols."
+    description: "250mg Teston Testosterone Enanthate Injection is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this injection is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols.",
+    images: [
+      "/products/Pharmaceutical%20Injection/250mg%20Teston%20Testosterone%20Enanthate%20Injection/250mg-teston-testosterone-enanthate-injection-500x500.jpeg",
+      "/products/Pharmaceutical%20Injection/250mg%20Teston%20Testosterone%20Enanthate%20Injection/250mg-teston-testosterone-enanthate-injection-500x500.jpg",
+      "/products/Pharmaceutical%20Injection/250mg%20Teston%20Testosterone%20Enanthate%20Injection/250mg-teston-testosterone-enanthate-injection-500x500.png"
+    ]
   },
   {
     id: "p-93",
     name: "Abhayrab Rabies Vaccine",
     category: "pharmaceutical-injection",
     strength: "As prescribed",
-    image: "/assets/cat_injection.jpg",
+    image: "/products/Pharmaceutical%20Injection/Abhayrab%20Rabies%20Vaccine/abhayrab-rabies-vaccine-500x500-1.jpg",
     brand: "Abhayrab",
     packagingType: "Vial/Ampoule",
     treatment: "Clinical Indication",
@@ -1728,14 +1959,19 @@ export const products = [
     form: "Injection",
     composition: "Rabies",
     packagingSize: "1 Vial",
-    description: "Abhayrab Rabies Vaccine is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this injection is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols."
+    description: "Abhayrab Rabies Vaccine is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this injection is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols.",
+    images: [
+      "/products/Pharmaceutical%20Injection/Abhayrab%20Rabies%20Vaccine/abhayrab-rabies-vaccine-500x500-1.jpg",
+      "/products/Pharmaceutical%20Injection/Abhayrab%20Rabies%20Vaccine/abhayrab-rabies-vaccine-500x500.jpg",
+      "/products/Pharmaceutical%20Injection/Abhayrab%20Rabies%20Vaccine/abhayrab-rabies-vaccine-500x500.png"
+    ]
   },
   {
     id: "p-94",
     name: "Indirab Human Rabies Vaccine",
     category: "pharmaceutical-injection",
     strength: "As prescribed",
-    image: "/assets/cat_injection.jpg",
+    image: "/products/Pharmaceutical%20Injection/Indirab%20Human%20Rabies%20Vaccine/indirab-human-rabies-vaccine-500x500-1.jpeg",
     brand: "Indirab",
     packagingType: "Vial/Ampoule",
     treatment: "Clinical Indication",
@@ -1743,14 +1979,19 @@ export const products = [
     form: "Injection",
     composition: "Human Rabies",
     packagingSize: "1 Vial",
-    description: "Indirab Human Rabies Vaccine is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this injection is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols."
+    description: "Indirab Human Rabies Vaccine is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this injection is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols.",
+    images: [
+      "/products/Pharmaceutical%20Injection/Indirab%20Human%20Rabies%20Vaccine/indirab-human-rabies-vaccine-500x500-1.jpeg",
+      "/products/Pharmaceutical%20Injection/Indirab%20Human%20Rabies%20Vaccine/indirab-human-rabies-vaccine-500x500-2.jpeg",
+      "/products/Pharmaceutical%20Injection/Indirab%20Human%20Rabies%20Vaccine/indirab-human-rabies-vaccine-500x500.jpeg"
+    ]
   },
   {
     id: "p-95",
     name: "Pri Testo Mix Testosterone Mix Compound",
     category: "pharmaceutical-injection",
     strength: "As prescribed",
-    image: "/assets/cat_injection.jpg",
+    image: "/products/Pharmaceutical%20Injection/Pri%20Testo%20Mix%20Testosterone%20Mix%20Compound/pri-testo-mix-testosterone-mix-compound-500x500-1.png",
     brand: "Pri",
     packagingType: "Box/Strip",
     treatment: "Clinical Indication",
@@ -1758,14 +1999,19 @@ export const products = [
     form: "Tablet",
     composition: "Testo Mix Testosterone Mix Compound",
     packagingSize: "10 x 10",
-    description: "Pri Testo Mix Testosterone Mix Compound is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols."
+    description: "Pri Testo Mix Testosterone Mix Compound is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols.",
+    images: [
+      "/products/Pharmaceutical%20Injection/Pri%20Testo%20Mix%20Testosterone%20Mix%20Compound/pri-testo-mix-testosterone-mix-compound-500x500-1.png",
+      "/products/Pharmaceutical%20Injection/Pri%20Testo%20Mix%20Testosterone%20Mix%20Compound/pri-testo-mix-testosterone-mix-compound-500x500-2.png",
+      "/products/Pharmaceutical%20Injection/Pri%20Testo%20Mix%20Testosterone%20Mix%20Compound/pri-testo-mix-testosterone-mix-compound-500x500.png"
+    ]
   },
   {
     id: "p-96",
     name: "250mg Pri Testo Cyp Testosterone Cypionate Injection",
     category: "pharmaceutical-injection",
     strength: "250mg",
-    image: "/assets/cat_injection.jpg",
+    image: "/products/Pharmaceutical%20Injection/250mg%20Pri%20Testo%20Cyp%20Testosterone%20Cypionate%20Injection/250mg-pri-testo-cyp-testosterone-cypionate-injection-500x500-1.jpeg",
     brand: "Pri",
     packagingType: "Vial/Ampoule",
     treatment: "Clinical Indication",
@@ -1773,14 +2019,19 @@ export const products = [
     form: "Injection",
     composition: "Testo Cyp Testosterone Cypionate",
     packagingSize: "1 Vial",
-    description: "250mg Pri Testo Cyp Testosterone Cypionate Injection is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this injection is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols."
+    description: "250mg Pri Testo Cyp Testosterone Cypionate Injection is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this injection is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols.",
+    images: [
+      "/products/Pharmaceutical%20Injection/250mg%20Pri%20Testo%20Cyp%20Testosterone%20Cypionate%20Injection/250mg-pri-testo-cyp-testosterone-cypionate-injection-500x500-1.jpeg",
+      "/products/Pharmaceutical%20Injection/250mg%20Pri%20Testo%20Cyp%20Testosterone%20Cypionate%20Injection/250mg-pri-testo-cyp-testosterone-cypionate-injection-500x500.jpeg",
+      "/products/Pharmaceutical%20Injection/250mg%20Pri%20Testo%20Cyp%20Testosterone%20Cypionate%20Injection/250mg-pri-testo-cyp-testosterone-cypionate-injection-500x500.png"
+    ]
   },
   {
     id: "p-97",
     name: "250mg Pri Bold Boldenone Undecylenate Injection",
     category: "pharmaceutical-injection",
     strength: "250mg",
-    image: "/assets/cat_injection.jpg",
+    image: "/products/Pharmaceutical%20Injection/250mg%20Pri%20Bold%20Boldenone%20Undecylenate%20Injection/250mg-pri-bold-boldenone-undecylenate-injection-500x500-1.jpg",
     brand: "Pri",
     packagingType: "Vial/Ampoule",
     treatment: "Clinical Indication",
@@ -1788,14 +2039,19 @@ export const products = [
     form: "Injection",
     composition: "Bold Boldenone Undecylenate",
     packagingSize: "1 Vial",
-    description: "250mg Pri Bold Boldenone Undecylenate Injection is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this injection is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols."
+    description: "250mg Pri Bold Boldenone Undecylenate Injection is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this injection is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols.",
+    images: [
+      "/products/Pharmaceutical%20Injection/250mg%20Pri%20Bold%20Boldenone%20Undecylenate%20Injection/250mg-pri-bold-boldenone-undecylenate-injection-500x500-1.jpg",
+      "/products/Pharmaceutical%20Injection/250mg%20Pri%20Bold%20Boldenone%20Undecylenate%20Injection/250mg-pri-bold-boldenone-undecylenate-injection-500x500.jpg",
+      "/products/Pharmaceutical%20Injection/250mg%20Pri%20Bold%20Boldenone%20Undecylenate%20Injection/250mg-pri-bold-boldenone-undecylenate-injection-500x500.png"
+    ]
   },
   {
     id: "p-98",
     name: "100mg Pri Testo Prop Testosterone Propionate Injection",
     category: "pharmaceutical-injection",
     strength: "100mg",
-    image: "/assets/cat_injection.jpg",
+    image: "/products/Pharmaceutical%20Injection/100mg%20Pri%20Testo%20Prop%20Testosterone%20Propionate%20Injection/100mg-pri-testo-prop-testosterone-propionate-injection-500x500-1.jpeg",
     brand: "Pri",
     packagingType: "Vial/Ampoule",
     treatment: "Clinical Indication",
@@ -1803,14 +2059,19 @@ export const products = [
     form: "Injection",
     composition: "Testo Prop Testosterone Propionate",
     packagingSize: "1 Vial",
-    description: "100mg Pri Testo Prop Testosterone Propionate Injection is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this injection is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols."
+    description: "100mg Pri Testo Prop Testosterone Propionate Injection is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this injection is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols.",
+    images: [
+      "/products/Pharmaceutical%20Injection/100mg%20Pri%20Testo%20Prop%20Testosterone%20Propionate%20Injection/100mg-pri-testo-prop-testosterone-propionate-injection-500x500-1.jpeg",
+      "/products/Pharmaceutical%20Injection/100mg%20Pri%20Testo%20Prop%20Testosterone%20Propionate%20Injection/100mg-pri-testo-prop-testosterone-propionate-injection-500x500.jpeg",
+      "/products/Pharmaceutical%20Injection/100mg%20Pri%20Testo%20Prop%20Testosterone%20Propionate%20Injection/pri-testo-prop-testosterone-propionate-usp-100mg-ml-500x500.jpeg"
+    ]
   },
   {
     id: "p-99",
     name: "76.5mg Pri Tren Hexa Trenbolone Hexahydrobenzylcarbonate Injection",
     category: "pharmaceutical-injection",
     strength: "76.5mg",
-    image: "/assets/cat_injection.jpg",
+    image: "/products/Pharmaceutical%20Injection/76.5mg%20Pri%20Tren%20Hexa%20Trenbolone%20Hexahydrobenzylcarbonate%20Injection/76-5mg-pri-tren-hexa-trenbolone-hexahydrobenzylcarbonate-injection-500x500-1.jpg",
     brand: "Pri",
     packagingType: "Vial/Ampoule",
     treatment: "Clinical Indication",
@@ -1818,14 +2079,19 @@ export const products = [
     form: "Injection",
     composition: "Tren Hexa Trenbolone Hexahydrobenzylcarbonate",
     packagingSize: "1 Vial",
-    description: "76.5mg Pri Tren Hexa Trenbolone Hexahydrobenzylcarbonate Injection is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this injection is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols."
+    description: "76.5mg Pri Tren Hexa Trenbolone Hexahydrobenzylcarbonate Injection is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this injection is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols.",
+    images: [
+      "/products/Pharmaceutical%20Injection/76.5mg%20Pri%20Tren%20Hexa%20Trenbolone%20Hexahydrobenzylcarbonate%20Injection/76-5mg-pri-tren-hexa-trenbolone-hexahydrobenzylcarbonate-injection-500x500-1.jpg",
+      "/products/Pharmaceutical%20Injection/76.5mg%20Pri%20Tren%20Hexa%20Trenbolone%20Hexahydrobenzylcarbonate%20Injection/76-5mg-pri-tren-hexa-trenbolone-hexahydrobenzylcarbonate-injection-500x500.jpg",
+      "/products/Pharmaceutical%20Injection/76.5mg%20Pri%20Tren%20Hexa%20Trenbolone%20Hexahydrobenzylcarbonate%20Injection/pri-tren-hexa-trenbolone-hexahydrobenzylcarbonate-76-5mg-ml-500x500.jpeg"
+    ]
   },
   {
     id: "p-100",
     name: "250mg Pri Testo Testosterone Enanthate Injection",
     category: "pharmaceutical-injection",
     strength: "250mg",
-    image: "/assets/cat_injection.jpg",
+    image: "/products/Pharmaceutical%20Injection/250mg%20Pri%20Testo%20Testosterone%20Enanthate%20Injection/250mg-pri-testo-testosterone-enanthate-injection-500x500-1.jpeg",
     brand: "Pri",
     packagingType: "Vial/Ampoule",
     treatment: "Clinical Indication",
@@ -1833,14 +2099,18 @@ export const products = [
     form: "Injection",
     composition: "Testo Testosterone Enanthate",
     packagingSize: "1 Vial",
-    description: "250mg Pri Testo Testosterone Enanthate Injection is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this injection is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols."
+    description: "250mg Pri Testo Testosterone Enanthate Injection is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this injection is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols.",
+    images: [
+      "/products/Pharmaceutical%20Injection/250mg%20Pri%20Testo%20Testosterone%20Enanthate%20Injection/250mg-pri-testo-testosterone-enanthate-injection-500x500-1.jpeg",
+      "/products/Pharmaceutical%20Injection/250mg%20Pri%20Testo%20Testosterone%20Enanthate%20Injection/250mg-pri-testo-testosterone-enanthate-injection-500x500.jpeg"
+    ]
   },
   {
     id: "p-101",
     name: "PRITESTO VIAL 250mg/ml",
     category: "pharmaceutical-injection",
     strength: "250mg",
-    image: "/assets/cat_injection.jpg",
+    image: "/products/Pharmaceutical%20Injection/PRITESTO%20VIAL%20250mgml/pri-testo-testosterone-enanthate-500x500.jpeg",
     brand: "PRITESTO",
     packagingType: "Vial/Ampoule",
     treatment: "Clinical Indication",
@@ -1848,14 +2118,19 @@ export const products = [
     form: "Injection",
     composition: "250mg/ml",
     packagingSize: "1 Vial",
-    description: "PRITESTO VIAL 250mg/ml is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this injection is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols."
+    description: "PRITESTO VIAL 250mg/ml is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this injection is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols.",
+    images: [
+      "/products/Pharmaceutical%20Injection/PRITESTO%20VIAL%20250mgml/pri-testo-testosterone-enanthate-500x500.jpeg",
+      "/products/Pharmaceutical%20Injection/PRITESTO%20VIAL%20250mgml/pritesto-vial-500x500-1.jpg",
+      "/products/Pharmaceutical%20Injection/PRITESTO%20VIAL%20250mgml/pritesto-vial-500x500.jpg"
+    ]
   },
   {
     id: "p-102",
     name: "PRIBOLAN 10ml vial",
     category: "pharmaceutical-injection",
     strength: "10ml",
-    image: "/assets/cat_injection.jpg",
+    image: "/products/Pharmaceutical%20Injection/PRIBOLAN%2010ml%20vial/pribolan-500x500-1.jpg",
     brand: "PRIBOLAN",
     packagingType: "Vial/Ampoule",
     treatment: "Clinical Indication",
@@ -1863,14 +2138,18 @@ export const products = [
     form: "Injection",
     composition: "10ml",
     packagingSize: "1 Vial",
-    description: "PRIBOLAN 10ml vial is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this injection is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols."
+    description: "PRIBOLAN 10ml vial is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this injection is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols.",
+    images: [
+      "/products/Pharmaceutical%20Injection/PRIBOLAN%2010ml%20vial/pribolan-500x500-1.jpg",
+      "/products/Pharmaceutical%20Injection/PRIBOLAN%2010ml%20vial/pribolan-500x500.jpg"
+    ]
   },
   {
     id: "p-103",
     name: "120mg Esentra Denosumab Injection",
     category: "pharmaceutical-injection",
     strength: "120mg",
-    image: "/assets/cat_injection.jpg",
+    image: "/products/Pharmaceutical%20Injection/120mg%20Esentra%20Denosumab%20Injection/120mg-esentra-denosumab-injection-500x500-1.jpg",
     brand: "Esentra",
     packagingType: "Vial/Ampoule",
     treatment: "Clinical Indication",
@@ -1878,14 +2157,19 @@ export const products = [
     form: "Injection",
     composition: "Denosumab",
     packagingSize: "1 Vial",
-    description: "120mg Esentra Denosumab Injection is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this injection is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols."
+    description: "120mg Esentra Denosumab Injection is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this injection is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols.",
+    images: [
+      "/products/Pharmaceutical%20Injection/120mg%20Esentra%20Denosumab%20Injection/120mg-esentra-denosumab-injection-500x500-1.jpg",
+      "/products/Pharmaceutical%20Injection/120mg%20Esentra%20Denosumab%20Injection/120mg-esentra-denosumab-injection-500x500.jpeg",
+      "/products/Pharmaceutical%20Injection/120mg%20Esentra%20Denosumab%20Injection/120mg-esentra-denosumab-injection-500x500.jpg"
+    ]
   },
   {
     id: "p-104",
     name: "4mg Pomalid Pomalidomide Capsules",
     category: "pharmaceutical-injection",
     strength: "4mg",
-    image: "/assets/cat_injection.jpg",
+    image: "/products/Pharmaceutical%20Injection/4mg%20Pomalid%20Pomalidomide%20Capsules/4mg-pomalid-pomalidomide-capsules-500x500.jpeg",
     brand: "Pomalid",
     packagingType: "Box/Strip",
     treatment: "Clinical Indication",
@@ -1893,14 +2177,19 @@ export const products = [
     form: "Capsule",
     composition: "Pomalidomide",
     packagingSize: "10 x 10",
-    description: "4mg Pomalid Pomalidomide Capsules is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this capsule is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols."
+    description: "4mg Pomalid Pomalidomide Capsules is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this capsule is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols.",
+    images: [
+      "/products/Pharmaceutical%20Injection/4mg%20Pomalid%20Pomalidomide%20Capsules/4mg-pomalid-pomalidomide-capsules-500x500.jpeg",
+      "/products/Pharmaceutical%20Injection/4mg%20Pomalid%20Pomalidomide%20Capsules/4mg-pomalid-pomalidomide-capsules-500x500.jpg",
+      "/products/Pharmaceutical%20Injection/4mg%20Pomalid%20Pomalidomide%20Capsules/4mg-pomalid-pomalidomide-capsules-500x500.png"
+    ]
   },
   {
     id: "p-105",
     name: "Proluton Depot Hydroxyprogesterone Caproate Injection",
     category: "pharmaceutical-injection",
     strength: "As prescribed",
-    image: "/assets/cat_injection.jpg",
+    image: "/products/Pharmaceutical%20Injection/Proluton%20Depot%20Hydroxyprogesterone%20Caproate%20Injection/proluton-depot-hydroxyprogesterone-caproate-injection-500x500-1.jpeg",
     brand: "Proluton",
     packagingType: "Vial/Ampoule",
     treatment: "Clinical Indication",
@@ -1908,14 +2197,19 @@ export const products = [
     form: "Injection",
     composition: "Depot Hydroxyprogesterone Caproate",
     packagingSize: "1 Vial",
-    description: "Proluton Depot Hydroxyprogesterone Caproate Injection is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this injection is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols."
+    description: "Proluton Depot Hydroxyprogesterone Caproate Injection is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this injection is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols.",
+    images: [
+      "/products/Pharmaceutical%20Injection/Proluton%20Depot%20Hydroxyprogesterone%20Caproate%20Injection/proluton-depot-hydroxyprogesterone-caproate-injection-500x500-1.jpeg",
+      "/products/Pharmaceutical%20Injection/Proluton%20Depot%20Hydroxyprogesterone%20Caproate%20Injection/proluton-depot-hydroxyprogesterone-caproate-injection-500x500.jpeg",
+      "/products/Pharmaceutical%20Injection/Proluton%20Depot%20Hydroxyprogesterone%20Caproate%20Injection/proluton-depot-hydroxyprogesterone-caproate-injection-500x500.png"
+    ]
   },
   {
     id: "p-106",
     name: "250ml Sustanon Testosterone Propionate Injection",
     category: "pharmaceutical-injection",
     strength: "250ml",
-    image: "/assets/cat_injection.jpg",
+    image: "/products/Pharmaceutical%20Injection/250ml%20Sustanon%20Testosterone%20Propionate%20Injection/250ml-sustanon-testosterone-propionate-injection-500x500.jpeg",
     brand: "Sustanon",
     packagingType: "Vial/Ampoule",
     treatment: "Clinical Indication",
@@ -1923,14 +2217,19 @@ export const products = [
     form: "Injection",
     composition: "Testosterone Propionate",
     packagingSize: "1 Vial",
-    description: "250ml Sustanon Testosterone Propionate Injection is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this injection is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols."
+    description: "250ml Sustanon Testosterone Propionate Injection is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this injection is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols.",
+    images: [
+      "/products/Pharmaceutical%20Injection/250ml%20Sustanon%20Testosterone%20Propionate%20Injection/250ml-sustanon-testosterone-propionate-injection-500x500.jpeg",
+      "/products/Pharmaceutical%20Injection/250ml%20Sustanon%20Testosterone%20Propionate%20Injection/sustanon-injection-500x500-1.jpeg",
+      "/products/Pharmaceutical%20Injection/250ml%20Sustanon%20Testosterone%20Propionate%20Injection/sustanon-injection-500x500.jpeg"
+    ]
   },
   {
     id: "p-107",
     name: "Puregraf 75 Iu",
     category: "pharmaceutical-injection",
     strength: "75 Iu",
-    image: "/assets/cat_injection.jpg",
+    image: "/products/Pharmaceutical%20Injection/Puregraf%2075%20Iu/puregraf-75-iu-500x500-1.jpeg",
     brand: "Puregraf",
     packagingType: "Box/Strip",
     treatment: "Clinical Indication",
@@ -1938,14 +2237,20 @@ export const products = [
     form: "Tablet",
     composition: "75 Iu",
     packagingSize: "10 x 10",
-    description: "Puregraf 75 Iu is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols."
+    description: "Puregraf 75 Iu is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols.",
+    images: [
+      "/products/Pharmaceutical%20Injection/Puregraf%2075%20Iu/puregraf-75-iu-500x500-1.jpeg",
+      "/products/Pharmaceutical%20Injection/Puregraf%2075%20Iu/puregraf-75-iu-500x500-2.jpeg",
+      "/products/Pharmaceutical%20Injection/Puregraf%2075%20Iu/puregraf-75-iu-500x500-3.jpeg",
+      "/products/Pharmaceutical%20Injection/Puregraf%2075%20Iu/puregraf-75-iu-500x500.jpeg"
+    ]
   },
   {
     id: "p-108",
     name: "1200mg Trioday Tenofovir Disoproxil Fumarate Lamivudine Efavirenz Tablets",
     category: "tenofovir-tablet",
     strength: "1200mg",
-    image: "/assets/cat_general.jpg",
+    image: "/products/Tenofovir%20Tablet/1200mg%20Trioday%20Tenofovir%20Disoproxil%20Fumarate%20Lamivudine%20Efavirenz%20Tablets/1200mg-trioday-tenofovir-disoproxil-fumarate-lamivudine-efavirenz-tablets-500x500.jpeg",
     brand: "Trioday",
     packagingType: "Box/Strip",
     treatment: "Clinical Indication",
@@ -1953,14 +2258,19 @@ export const products = [
     form: "Tablet",
     composition: "Tenofovir Disoproxil Fumarate Lamivudine Efavirenz",
     packagingSize: "10 x 10",
-    description: "1200mg Trioday Tenofovir Disoproxil Fumarate Lamivudine Efavirenz Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols."
+    description: "1200mg Trioday Tenofovir Disoproxil Fumarate Lamivudine Efavirenz Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols.",
+    images: [
+      "/products/Tenofovir%20Tablet/1200mg%20Trioday%20Tenofovir%20Disoproxil%20Fumarate%20Lamivudine%20Efavirenz%20Tablets/1200mg-trioday-tenofovir-disoproxil-fumarate-lamivudine-efavirenz-tablets-500x500.jpeg",
+      "/products/Tenofovir%20Tablet/1200mg%20Trioday%20Tenofovir%20Disoproxil%20Fumarate%20Lamivudine%20Efavirenz%20Tablets/cipla-trioday-tablet-500x500.jpg",
+      "/products/Tenofovir%20Tablet/1200mg%20Trioday%20Tenofovir%20Disoproxil%20Fumarate%20Lamivudine%20Efavirenz%20Tablets/once-a-day-trioday-tablets-500x500.jpeg"
+    ]
   },
   {
     id: "p-109",
     name: "300mg Tenvir Tenofovir Disoproxil Fumarate Tablets",
     category: "tenofovir-tablet",
     strength: "300mg",
-    image: "/assets/cat_general.jpg",
+    image: "/products/Tenofovir%20Tablet/300mg%20Tenvir%20Tenofovir%20Disoproxil%20Fumarate%20Tablets/300-mg-cipla-tenvir-tablet-500x500.jpg",
     brand: "Tenvir",
     packagingType: "Box/Strip",
     treatment: "Clinical Indication",
@@ -1968,14 +2278,19 @@ export const products = [
     form: "Tablet",
     composition: "Tenofovir Disoproxil Fumarate",
     packagingSize: "10 x 10",
-    description: "300mg Tenvir Tenofovir Disoproxil Fumarate Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols."
+    description: "300mg Tenvir Tenofovir Disoproxil Fumarate Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols.",
+    images: [
+      "/products/Tenofovir%20Tablet/300mg%20Tenvir%20Tenofovir%20Disoproxil%20Fumarate%20Tablets/300-mg-cipla-tenvir-tablet-500x500.jpg",
+      "/products/Tenofovir%20Tablet/300mg%20Tenvir%20Tenofovir%20Disoproxil%20Fumarate%20Tablets/300mg-tenvir-tenofovir-disoproxil-fumarate-tablets-500x500-1.jpeg",
+      "/products/Tenofovir%20Tablet/300mg%20Tenvir%20Tenofovir%20Disoproxil%20Fumarate%20Tablets/300mg-tenvir-tenofovir-disoproxil-fumarate-tablets-500x500.jpeg"
+    ]
   },
   {
     id: "p-110",
     name: "500mg Ricovir EM Tenofovir Disoproxil Fumarate And Emtricitabine Tablets",
     category: "tenofovir-tablet",
     strength: "500mg",
-    image: "/assets/cat_general.jpg",
+    image: "/products/Tenofovir%20Tablet/500mg%20Ricovir%20EM%20Tenofovir%20Disoproxil%20Fumarate%20And%20Emtricitabine%20Tablets/500mg-ricovir-em-tenofovir-disoproxil-fumarate-and-emtricitabine-tablets-500x500-1.jpeg",
     brand: "Ricovir",
     packagingType: "Box/Strip",
     treatment: "Clinical Indication",
@@ -1983,14 +2298,19 @@ export const products = [
     form: "Tablet",
     composition: "EM Tenofovir Disoproxil Fumarate And Emtricitabine",
     packagingSize: "10 x 10",
-    description: "500mg Ricovir EM Tenofovir Disoproxil Fumarate And Emtricitabine Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols."
+    description: "500mg Ricovir EM Tenofovir Disoproxil Fumarate And Emtricitabine Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols.",
+    images: [
+      "/products/Tenofovir%20Tablet/500mg%20Ricovir%20EM%20Tenofovir%20Disoproxil%20Fumarate%20And%20Emtricitabine%20Tablets/500mg-ricovir-em-tenofovir-disoproxil-fumarate-and-emtricitabine-tablets-500x500-1.jpeg",
+      "/products/Tenofovir%20Tablet/500mg%20Ricovir%20EM%20Tenofovir%20Disoproxil%20Fumarate%20And%20Emtricitabine%20Tablets/500mg-ricovir-em-tenofovir-disoproxil-fumarate-and-emtricitabine-tablets-500x500-2.jpeg",
+      "/products/Tenofovir%20Tablet/500mg%20Ricovir%20EM%20Tenofovir%20Disoproxil%20Fumarate%20And%20Emtricitabine%20Tablets/500mg-ricovir-em-tenofovir-disoproxil-fumarate-and-emtricitabine-tablets-500x500.jpeg"
+    ]
   },
   {
     id: "p-111",
     name: "300mg Tenof Tenofovir Disoproxil Fumarate Tablets",
     category: "tenofovir-tablet",
     strength: "300mg",
-    image: "/assets/cat_general.jpg",
+    image: "/products/Tenofovir%20Tablet/300mg%20Tenof%20Tenofovir%20Disoproxil%20Fumarate%20Tablets/300mg-tenof-tenofovir-disoproxil-fumarate-tablets-500x500-1.jpeg",
     brand: "Tenof",
     packagingType: "Box/Strip",
     treatment: "Clinical Indication",
@@ -1998,14 +2318,19 @@ export const products = [
     form: "Tablet",
     composition: "Tenofovir Disoproxil Fumarate",
     packagingSize: "10 x 10",
-    description: "300mg Tenof Tenofovir Disoproxil Fumarate Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols."
+    description: "300mg Tenof Tenofovir Disoproxil Fumarate Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols.",
+    images: [
+      "/products/Tenofovir%20Tablet/300mg%20Tenof%20Tenofovir%20Disoproxil%20Fumarate%20Tablets/300mg-tenof-tenofovir-disoproxil-fumarate-tablets-500x500-1.jpeg",
+      "/products/Tenofovir%20Tablet/300mg%20Tenof%20Tenofovir%20Disoproxil%20Fumarate%20Tablets/300mg-tenof-tenofovir-disoproxil-fumarate-tablets-500x500.jpeg",
+      "/products/Tenofovir%20Tablet/300mg%20Tenof%20Tenofovir%20Disoproxil%20Fumarate%20Tablets/300mg-tenof-tenofovir-disoproxil-fumarate-tablets-500x500.png"
+    ]
   },
   {
     id: "p-112",
     name: "300mg Ricovir Tenofovir Disoproxil Fumarate Tablets",
     category: "tenofovir-tablet",
     strength: "300mg",
-    image: "/assets/cat_general.jpg",
+    image: "/products/Tenofovir%20Tablet/300mg%20Ricovir%20Tenofovir%20Disoproxil%20Fumarate%20Tablets/300mg-ricovir-tablet-500x500-1.jpeg",
     brand: "Ricovir",
     packagingType: "Box/Strip",
     treatment: "Clinical Indication",
@@ -2013,14 +2338,19 @@ export const products = [
     form: "Tablet",
     composition: "Tenofovir Disoproxil Fumarate",
     packagingSize: "10 x 10",
-    description: "300mg Ricovir Tenofovir Disoproxil Fumarate Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols."
+    description: "300mg Ricovir Tenofovir Disoproxil Fumarate Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols.",
+    images: [
+      "/products/Tenofovir%20Tablet/300mg%20Ricovir%20Tenofovir%20Disoproxil%20Fumarate%20Tablets/300mg-ricovir-tablet-500x500-1.jpeg",
+      "/products/Tenofovir%20Tablet/300mg%20Ricovir%20Tenofovir%20Disoproxil%20Fumarate%20Tablets/300mg-ricovir-tablet-500x500-2.jpeg",
+      "/products/Tenofovir%20Tablet/300mg%20Ricovir%20Tenofovir%20Disoproxil%20Fumarate%20Tablets/300mg-ricovir-tablet-500x500.jpeg"
+    ]
   },
   {
     id: "p-113",
     name: "225mg Tafero EM Emtricitabine Tablets",
     category: "tenofovir-tablet",
     strength: "225mg",
-    image: "/assets/cat_general.jpg",
+    image: "/products/Tenofovir%20Tablet/225mg%20Tafero%20EM%20Emtricitabine%20Tablets/225mg-tafero-em-emtricitabine-tablets-500x500-1.jpeg",
     brand: "Tafero",
     packagingType: "Box/Strip",
     treatment: "Clinical Indication",
@@ -2028,14 +2358,19 @@ export const products = [
     form: "Tablet",
     composition: "EM Emtricitabine",
     packagingSize: "10 x 10",
-    description: "225mg Tafero EM Emtricitabine Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols."
+    description: "225mg Tafero EM Emtricitabine Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols.",
+    images: [
+      "/products/Tenofovir%20Tablet/225mg%20Tafero%20EM%20Emtricitabine%20Tablets/225mg-tafero-em-emtricitabine-tablets-500x500-1.jpeg",
+      "/products/Tenofovir%20Tablet/225mg%20Tafero%20EM%20Emtricitabine%20Tablets/225mg-tafero-em-emtricitabine-tablets-500x500.jpeg",
+      "/products/Tenofovir%20Tablet/225mg%20Tafero%20EM%20Emtricitabine%20Tablets/225mg-tafero-em-emtricitabine-tablets-500x500.jpg"
+    ]
   },
   {
     id: "p-114",
     name: "Tendolami Doultegravir Lamivudine Tenofovir Disproxil Fumarate Tablets",
     category: "tenofovir-tablet",
     strength: "As prescribed",
-    image: "/assets/cat_general.jpg",
+    image: "/products/Tenofovir%20Tablet/Tendolami%20Doultegravir%20Lamivudine%20Tenofovir%20Disproxil%20Fumarate%20Tablets/tendolami-doultegravir-lamivudine-and-tenofovir-disproxil-fumarate-tablets-ip-500x500.jpeg",
     brand: "Tendolami",
     packagingType: "Box/Strip",
     treatment: "Clinical Indication",
@@ -2043,14 +2378,19 @@ export const products = [
     form: "Tablet",
     composition: "Doultegravir Lamivudine Tenofovir Disproxil Fumarate",
     packagingSize: "10 x 10",
-    description: "Tendolami Doultegravir Lamivudine Tenofovir Disproxil Fumarate Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols."
+    description: "Tendolami Doultegravir Lamivudine Tenofovir Disproxil Fumarate Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols.",
+    images: [
+      "/products/Tenofovir%20Tablet/Tendolami%20Doultegravir%20Lamivudine%20Tenofovir%20Disproxil%20Fumarate%20Tablets/tendolami-doultegravir-lamivudine-and-tenofovir-disproxil-fumarate-tablets-ip-500x500.jpeg",
+      "/products/Tenofovir%20Tablet/Tendolami%20Doultegravir%20Lamivudine%20Tenofovir%20Disproxil%20Fumarate%20Tablets/tendolami-doultegravir-lamivudine-tenofovir-disproxil-fumarate-tablets-500x500.jpeg",
+      "/products/Tenofovir%20Tablet/Tendolami%20Doultegravir%20Lamivudine%20Tenofovir%20Disproxil%20Fumarate%20Tablets/tendolami-doultegravir-lamivudine-tenofovir-disproxil-fumarate-tablets-500x500.png"
+    ]
   },
   {
     id: "p-115",
     name: "1000mg Avonza Tenofovir Disoproxil Fumarate Tablets",
     category: "tenofovir-tablet",
     strength: "1000mg",
-    image: "/assets/cat_general.jpg",
+    image: "/products/Tenofovir%20Tablet/1000mg%20Avonza%20Tenofovir%20Disoproxil%20Fumarate%20Tablets/1000mg-avonza-tenofovir-disoproxil-fumarate-tablets-500x500-1.jpeg",
     brand: "Avonza",
     packagingType: "Box/Strip",
     treatment: "Clinical Indication",
@@ -2058,7 +2398,12 @@ export const products = [
     form: "Tablet",
     composition: "Tenofovir Disoproxil Fumarate",
     packagingSize: "10 x 10",
-    description: "1000mg Avonza Tenofovir Disoproxil Fumarate Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols."
+    description: "1000mg Avonza Tenofovir Disoproxil Fumarate Tablets is an advanced formulation ensuring maximum efficacy and patient safety. It is extensively utilized in clinical settings for targeted treatments. Manufactured under stringent quality standards, this tablet is recognized for its reliability. Please consult a registered medical practitioner for precise dosage and administrative protocols.",
+    images: [
+      "/products/Tenofovir%20Tablet/1000mg%20Avonza%20Tenofovir%20Disoproxil%20Fumarate%20Tablets/1000mg-avonza-tenofovir-disoproxil-fumarate-tablets-500x500-1.jpeg",
+      "/products/Tenofovir%20Tablet/1000mg%20Avonza%20Tenofovir%20Disoproxil%20Fumarate%20Tablets/1000mg-avonza-tenofovir-disoproxil-fumarate-tablets-500x500-2.jpeg",
+      "/products/Tenofovir%20Tablet/1000mg%20Avonza%20Tenofovir%20Disoproxil%20Fumarate%20Tablets/1000mg-avonza-tenofovir-disoproxil-fumarate-tablets-500x500.jpeg"
+    ]
   },
   {
     id: "p-116",
