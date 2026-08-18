@@ -4,39 +4,19 @@ import { ArrowRight, Globe, ShieldCheck, Award, Truck, Phone, FlaskConical, Hear
 import CategorySection from '../components/CategorySection';
 import AnimatedCounter from '../components/AnimatedCounter';
 import { categories, products } from '../data/products';
+import { heroCarouselSlides } from '../data/carousel';
 import './Home.css';
 
 const Home = () => {
   const WHATSAPP_NUMBER = '917970153653';
 
-  const heroSlides = [
+  const heroSlides = heroCarouselSlides && heroCarouselSlides.length > 0 ? heroCarouselSlides : [
     {
       image: '/assets/anti_cancer_meds.jpg',
       tag: 'Quality Certified',
       tagSub: 'WHO-GMP Approved',
       badge: '50+ Countries',
       badgeSub: 'Worldwide Export'
-    },
-    {
-      image: '/assets/hero_banner.jpg',
-      tag: 'Certified Exporter',
-      tagSub: '200+ Products Sourced',
-      badge: 'Fast Logistics',
-      badgeSub: 'Global Cold-Chain'
-    },
-    {
-      image: '/assets/pharma_injections.jpg',
-      tag: 'Pharmaceutical Injections',
-      tagSub: 'Sterile & Verified',
-      badge: 'Direct Sourcing',
-      badgeSub: '50+ Supply Partners'
-    },
-    {
-      image: '/assets/cat_anticancer.jpg',
-      tag: 'Oncology & Antivirals',
-      tagSub: 'Life-Saving Formulations',
-      badge: 'Quality Assured',
-      badgeSub: 'COA / COO Certified'
     }
   ];
 
