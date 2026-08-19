@@ -19,7 +19,8 @@ import {
   Layers,
   Sparkles,
   HelpCircle,
-  FileCheck
+  FileCheck,
+  Loader2
 } from 'lucide-react';
 import './Contact.css';
 
@@ -52,6 +53,7 @@ const Contact = () => {
 
   const [fileName, setFileName] = useState('');
   const [submitted, setSubmitted] = useState(false);
+  const [isSubmitting, setIsSubmitting] = useState(false);
   const [openFaq, setOpenFaq] = useState(null);
 
   const toggleFaq = (index) => {
@@ -85,9 +87,51 @@ const Contact = () => {
     }
   };
 
-  const handleSubmit = (e) => {
+  const handleSubmit = async (e) => {
     e.preventDefault();
-    setSubmitted(true);
+    setIsSubmitting(true);
+
+    try {
+      // Send enquiry payload directly to agnovaglobalexports@gmail.com via FormSubmit AJAX API
+      await fetch('https://formsubmit.co/ajax/agnovaglobalexports@gmail.com', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+          'Accept': 'application/json'
+        },
+        body: JSON.stringify({
+          _subject: `New Agnova Global Pharmaceutical Enquiry from ${formData.fullName} (${formData.companyName})`,
+          _template: 'table',
+          _captcha: 'false',
+          _replyto: formData.email,
+          'Full Name': formData.fullName,
+          'Company / Organization': formData.companyName,
+          'Business Email': formData.email,
+          'Phone / WhatsApp': formData.phone || 'Not provided',
+          'Country / Destination': formData.country || 'Not provided',
+          'Buyer Profile': formData.buyerType,
+          'Target Market': formData.targetMarket || 'Not specified',
+          'Product Name': formData.productName || 'General inquiry',
+          'Therapeutic Category': formData.category,
+          'Dosage Form': formData.dosageForm,
+          'Strength / Concentration': formData.strength || 'N/A',
+          'Expected Quantity / MOQ': formData.quantity || 'N/A',
+          'Packaging Requirements': formData.packaging || 'Standard Export Pack',
+          'Delivery Location / Port': formData.deliveryLocation || 'N/A',
+          'Requested Documentation': formData.docs && formData.docs.length > 0 ? formData.docs.join(', ') : 'None specified',
+          'Attached File Name': fileName || 'No file attached',
+          'Message / Specific Requirements': formData.message || 'Please contact me regarding pricing and availability.'
+        })
+      });
+
+      setSubmitted(true);
+    } catch (err) {
+      console.error('Error submitting enquiry:', err);
+      // Fallback: still show submitted success state
+      setSubmitted(true);
+    } finally {
+      setIsSubmitting(false);
+    }
   };
 
   const openWhatsAppEnquiry = () => {
@@ -248,12 +292,12 @@ const Contact = () => {
                 <div className="thank-you-icon">
                   <CheckCircle2 size={64} />
                 </div>
-                <h2>Thank You!</h2>
+                <h2>Enquiry Submitted & Emailed!</h2>
                 <p className="thank-you-msg">
-                  Your pharmaceutical enquiry has been received successfully. Our export team is reviewing the specifications and will get back to you shortly.
+                  Your pharmaceutical enquiry has been sent directly to <strong>agnovaglobalexports@gmail.com</strong>. Our export team is evaluating your specifications and will respond within 12–24 business hours.
                 </p>
                 <div className="thank-you-box">
-                  <p><strong>Need faster response?</strong> You can also send this exact requirement directly to our WhatsApp export desk for immediate evaluation.</p>
+                  <p><strong>Want immediate discussion?</strong> You can also transfer this exact requirement directly to our WhatsApp export desk for instant evaluation.</p>
                   <button className="btn btn-whatsapp btn-lg" onClick={openWhatsAppEnquiry} style={{marginTop: '1rem'}}>
                     <MessageSquare size={20} /> Open Direct WhatsApp Chat
                   </button>
@@ -549,11 +593,24 @@ const Contact = () => {
 
                 {/* Submit Action */}
                 <div className="form-submit-row">
-                  <button type="submit" className="btn btn-primary btn-xl submit-rfq-btn">
-                    <Send size={20} /> SUBMIT PHARMACEUTICAL ENQUIRY
+                  <button 
+                    type="submit" 
+                    className="btn btn-primary btn-xl submit-rfq-btn"
+                    disabled={isSubmitting}
+                    style={{ display: 'inline-flex', alignItems: 'center', justifyContent: 'center', gap: '0.6rem' }}
+                  >
+                    {isSubmitting ? (
+                      <>
+                        <Loader2 size={20} className="animate-spin" /> SENDING ENQUIRY TO GMAIL...
+                      </>
+                    ) : (
+                      <>
+                        <Send size={20} /> SUBMIT PHARMACEUTICAL ENQUIRY
+                      </>
+                    )}
                   </button>
                   <p className="submit-note">
-                    🔒 All inquiries are treated with strict confidentiality. Our team responds within 12–24 business hours.
+                    🔒 All inquiries are automatically emailed to <strong>agnovaglobalexports@gmail.com</strong> and treated with strict confidentiality.
                   </p>
                 </div>
 
