@@ -10,7 +10,17 @@ import About from './pages/About';
 import Contact from './pages/Contact';
 import ScrollToTop from './components/ScrollToTop';
 
+import ComingSoon from './components/ComingSoon';
+
+// Set to true to stop the website and display only Coming Soon tab & page
+// Change to false whenever you want to start/restore the live website back to normal
+const IS_COMING_SOON = true;
+
 function App() {
+  if (IS_COMING_SOON) {
+    return <ComingSoon />;
+  }
+
   return (
     <Router>
       <ScrollToTop />
