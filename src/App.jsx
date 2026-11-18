@@ -10,15 +10,15 @@ import About from './pages/About';
 import Contact from './pages/Contact';
 import ScrollToTop from './components/ScrollToTop';
 
-import ComingSoon from './components/ComingSoon';
+import ServerError503 from './components/ServerError503';
 
-// Set to true to stop the website and display only Coming Soon tab & page
+// Set to true to completely stop the website (shows real 503 server unavailable error)
 // Change to false whenever you want to start/restore the live website back to normal
-const IS_COMING_SOON = true;
+const IS_STOPPED = true;
 
 function App() {
-  if (IS_COMING_SOON) {
-    return <ComingSoon />;
+  if (IS_STOPPED) {
+    return <ServerError503 />;
   }
 
   return (
